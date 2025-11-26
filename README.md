@@ -1,5 +1,5 @@
 # Introduction to Programming Using Python
-## Setup (MS Windows)
+## Setup
 * pip install from PyPI
    ```
   python3 -m pip install intro-prog
