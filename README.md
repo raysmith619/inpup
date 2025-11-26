@@ -24,6 +24,6 @@ or
 iptest2
 ```
 
-In a handfull of seconds the following view should present on the screen.(https://github.com/raysmith619/graphics_braille/raw/main/Docs/iptest.png)
+In a handfull of seconds the following view should present on the screen.(https://github.com/raysmith619/inpup/raw/main/Docs/iptest.png)
 
 
