@@ -1,0 +1,50 @@
+ 20240916_110336_492 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_a.properties
+ 20240916_110336_523 decpl = True
+ 20240916_110336_532 aud_create = True
+ 20240916_110336_541 display_cell = True
+ 20240916_110336_550 get_items = True
+ 20240916_110336_559 list_props = True
+ 20240916_110336_569 pos_tracking = True
+ 20240916_110336_579 prop_change = True
+ 20240916_110336_592 show_canvas_items = True
+ 20240916_110336_609 slow_key_str = True
+ 20240916_110336_714 sound_queue = True
+ 20240916_110336_727 speech = True
+ 20240916_110336_738 stdouthasts = True
+ 20240916_110336_748 win_items = True
+ 20240916_110336_759 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_a_20240916_110336.sllog
+ 20240916_110339 braille_title: File: square_loop_braille_a.py  Date: 2024-09-16 11:03  User: Owner
+ 20240916_110340 sc_sounc_proc_thread running
+ 20240916_110340 canvas width: 804
+ 20240916_110340 canvas height: 804
+ 20240916_110340 sc_sounc_proc_thread running
+ 20240916_110340 File: square_loop_braille_a.py  Date: 2024-09-16 11:03  User: Owner
+ 20240916_110340 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240916_110340 draw_cells
+ 20240916_110340 x_min:-400.0 y_min: -400.0
+ 20240916_110340 Lower left: min_x:-40 min_y:-208
+ 20240916_110340 Upper Right: max_x:240 max_y:16
+ 20240916_110340 94 cells
+ 20240916_110341 blue at row 12 column 20
+ 20240916_110341 
+,,,bbbbbbbbbbbb
+,,bbbbbbbbbbbbb
+,,bbbbbbbbbbbbb
+,,bbb,,,,,,,bbb
+,,bbb,,,,,,,bbb
+,,bbb,,,,,,,bbb
+,,bbb,,,,,,,bbb
+,,bbbbbbbbbbbbb
+,,,bbbbbbbbbbbb
+
+ 20240916_110344 fte.pgm_exit
+ 20240916_110344 BrailleDisplay.exit
+ 20240916_110344 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_a.properties  20240916_110344
+ 20240916_110344_813 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_a_20240916_110336.sllog

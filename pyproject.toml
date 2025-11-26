@@ -1,0 +1,45 @@
+#pyproject.toml  21Nov2025  intro-prog
+[build-system]
+requires = [
+    "setuptools>=61.0",
+    "wheel"
+  ]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "intro-prog"
+version = "0.2.1"
+authors = [
+  { name="Ray Smith", email="raysmith619@gmail.com" },
+]
+description = "Create Braille maps for simple Turtle program output"
+readme = "README.md"
+requires-python = ">=3.9
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+dependencies = [
+]
+
+[tool.setuptools]
+packages = ["Docs"]
+
+[tool.setuptools.package-data]
+"Docs" = ["../Docs/**"]
+
+
+[project.urls]
+Homepage = "https://github.com/raysmith619/intro_prog"
+Issues = "https://github.com/raysmith619/intro_prog/issues"
+
+[project.scripts]
+ip = "intro_prog:iphelp"
+iphelp = "intro_prog:iphelp"
+ipreadme = "intro_prog:ipreadme"
+ipfiles = "intro_prog:ipfiles"
+iptest = "intro_prog:iptest"
+iptest2 = "intro_prog:iptest2"

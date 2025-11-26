@@ -1,0 +1,6 @@
+ 20231030_182049 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\wx_adw_menus.properties
+ 20231030_182049_680 loadTraceFlags: decpl,stdouthasts
+ 20231030_182049_680 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\wx_adw_menus_20231030_182049.sllog
+ 20231030_182049_695 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\wx_adw_menus.properties
+ 20231030_182049_695 loadTraceFlags: decpl,stdouthasts,trace_flags
+ 20231030_182049_695 fte.stop_drawing()

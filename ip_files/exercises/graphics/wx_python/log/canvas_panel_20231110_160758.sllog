@@ -1,0 +1,21 @@
+ 20231110_160758 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_160758_160 loadTraceFlags: decpl,stdouthasts
+ 20231110_160758_160 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_160758.sllog
+ 20231110_160758_160 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_160758_222 loadTraceFlags: decpl,stdouthasts,trace_flags
+ 20231110_160758_238 item: CanvasPanelItem:[1][create_rectangle] orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_160758_238 item: CanvasPanelItem:[2][create_rectangle] orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_160828_948 item: CanvasPanelItem:[1][create_rectangle] orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_160828_948 item: CanvasPanelItem:[2][create_rectangle] orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_160828_985 item: CanvasPanelItem:[1][create_rectangle] orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_160829_000 item: CanvasPanelItem:[2][create_rectangle] orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_160829_016 item: CanvasPanelItem:[1][create_rectangle] orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_160829_016 item: CanvasPanelItem:[2][create_rectangle] orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_160829_032 item: CanvasPanelItem:[1][create_rectangle] orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_160829_032 item: CanvasPanelItem:[2][create_rectangle] orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_160829_047 item: CanvasPanelItem:[1][create_rectangle] orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_160829_047 item: CanvasPanelItem:[2][create_rectangle] orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_160829_079 item: CanvasPanelItem:[1][create_rectangle] orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_160829_079 item: CanvasPanelItem:[2][create_rectangle] orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_160829_250 item: CanvasPanelItem:[1][create_rectangle] orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_160829_250 item: CanvasPanelItem:[2][create_rectangle] orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}

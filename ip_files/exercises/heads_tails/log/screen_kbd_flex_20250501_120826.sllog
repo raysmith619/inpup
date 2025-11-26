@@ -1,0 +1,14 @@
+ 20250501_120826Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\heads_tails\screen_kbd_flex.properties
+ 20250501_120826decpl = False
+ 20250501_120826stdouthasts = 0
+ 20250501_120826no_ts = False
+ 20250501_120826Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\exercises\heads_tails\log\screen_kbd_flex_20250501_120826.sllog
+ 20250501_120826(END) key toggles image display
+ 20250501_120826Setup Screen Keyboard
+ 20250501_120826Initial image_dir: None
+ 20250501_120826Number buttons:80
+ 20250501_120826keys: 80 rows: 5 cols: 18 generated specs 80
+ 20250501_120827We Can't find image file for .
+ looking in: c:\Users\raysm\vscode\resource_lib\images\keys\drawing_rotate_right.png
+ 20250501_120832Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\exercises\heads_tails\screen_kbd_flex.properties  20250501_120832
+Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\heads_tails\log\screen_kbd_flex_20250501_120826.sllog

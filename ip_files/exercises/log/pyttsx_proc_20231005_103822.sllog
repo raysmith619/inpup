@@ -1,0 +1,33 @@
+ 20231005_103822 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103822_811 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_103822_811 talk_cmd = True
+ 20231005_103822_811 decpl = True
+ 20231005_103822_811 stdouthasts = True
+ 20231005_103822_811 list_props = True
+ 20231005_103822_811 prop_change = True
+ 20231005_103822_811 trace_flags = True
+ 20231005_103822_811 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_103822.sllog
+ 20231005_103822_826 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103822_826 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_103822_826 talk_cmd = True
+ 20231005_103822_826 decpl = True
+ 20231005_103822_826 stdouthasts = True
+ 20231005_103822_826 list_props = True
+ 20231005_103822_826 prop_change = True
+ 20231005_103822_826 trace_flags = True
+ 20231005_103822_826 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103822_826 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_103822_826 talk_cmd = True
+ 20231005_103822_826 decpl = True
+ 20231005_103822_826 stdouthasts = True
+ 20231005_103822_826 list_props = True
+ 20231005_103822_826 prop_change = True
+ 20231005_103822_826 trace_flags = True
+ 20231005_103822_826 After eng.say(How are you?)
+ 20231005_103824_005 after eng.runAndWait()
+ 20231005_103824_005 after engine_runAndWait()
+ 20231005_103824_005 do_cmd - queue size: 1
+ 20231005_103824_005 After eng.say(How's the weather?)
+ 20231005_103826_322 after eng.runAndWait()
+ 20231005_103826_322 after engine_runAndWait()
+ 20231005_103826_322 do_cmd - queue size: 1

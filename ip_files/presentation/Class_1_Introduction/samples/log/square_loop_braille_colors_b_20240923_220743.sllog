@@ -1,0 +1,727 @@
+ 20240923_220743_717 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_colors_b.properties
+ 20240923_220743_784 decpl = True
+ 20240923_220743_790 aud_create = True
+ 20240923_220743_794 display_cell = True
+ 20240923_220743_798 get_items = True
+ 20240923_220743_802 list_props = True
+ 20240923_220743_808 motion = True
+ 20240923_220743_813 mouse_cell = True
+ 20240923_220743_817 play_tone = True
+ 20240923_220743_823 pos_tracking = True
+ 20240923_220743_836 prop_change = True
+ 20240923_220743_845 show_canvas_items = True
+ 20240923_220743_850 slow_key_str = True
+ 20240923_220743_855 sound = True
+ 20240923_220743_861 sound_queue = True
+ 20240923_220743_866 sound_volume = True
+ 20240923_220743_870 speech = True
+ 20240923_220743_876 stdouthasts = True
+ 20240923_220743_881 win_items = True
+ 20240923_220743_885 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_colors_b_20240923_220743.sllog
+ 20240923_220746 braille_title: File: square_loop_braille_colors_b.py  Date: 2024-09-23 22:07  User: Owner
+ 20240923_220747 sc_sounc_proc_thread running
+ 20240923_220747 canvas width: 804
+ 20240923_220747 canvas height: 804
+ 20240923_220747 sc_sounc_proc_thread running
+ 20240923_220747 File: square_loop_braille_colors_b.py  Date: 2024-09-23 22:07  User: Owner
+ 20240923_220747 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240923_220747 draw_cells
+ 20240923_220747 x_min:-400.0 y_min: -400.0
+ 20240923_220747 Lower left: min_x:-40 min_y:-208
+ 20240923_220747 Upper Right: max_x:240 max_y:16
+ 20240923_220747 94 cells
+ 20240923_220747 green at row 12 column 20
+ 20240923_220747 
+,,,ggrrrrrrrroo
+,,gggrrrrrrrooo
+,,gggrrrrrrrooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggggyyyyyyyyy
+,,,gggyyyyyyyyy
+
+ 20240923_220812 on_alt_s
+ 20240923_220815 start_scanning
+ 20240923_220815 Calculating scan_items
+ 20240923_220815 
+get_perimetr loop 1
+ 20240923_220815 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220816 
+minimize loop 1
+ 20240923_220816 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220816 our_connectors:['SurroundingSquare:(17, 11)', 'SurroundingSquare:(17, 10)']
+ 20240923_220816 expansion_space:(18, 11)
+ 20240923_220816 
+
+ 20240923_220816 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++[:]_ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220816 our_connectors:['SurroundingSquare:(29, 10)', 'SurroundingSquare:(30, 10)', 'SurroundingSquare:(31, 10)']
+ 20240923_220816 expansion_space:(31, 11)
+ 20240923_220816 
+
+ 20240923_220816 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo[:]_++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220816 our_connectors:['SurroundingSquare:(32, 17)', 'SurroundingSquare:(32, 18)', 'SurroundingSquare:(32, 19)']
+ 20240923_220816 expansion_space:(31, 19)
+ 20240923_220816 
+
+ 20240923_220816 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy[:]_++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220816 our_connectors:['SurroundingSquare:(20, 20)', 'SurroundingSquare:(19, 20)', 'SurroundingSquare:(18, 20)']
+ 20240923_220816 expansion_space:(18, 19)
+ 20240923_220816 
+
+ 20240923_220816 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++[:]_ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220816 
+get_perimetr loop 2
+ 20240923_220816 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220816 
+minimize loop 1
+ 20240923_220816 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220816 
+minimize loop 2
+ 20240923_220816 
+------------------------------------------------------------------------
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------
+------------------------------------------------------------------------
+
+ 20240923_220816 start_scan 
+ 20240923_220816 Add 10 new items at 0 with sound
+ 20240923_220816 Scanning vol_adj: 0.0
+ 20240923_220816 10 cells: time: 0.022 seconds
+ 20240923_220823 Add 10 new items at 10 with sound
+ 20240923_220823 Scanning vol_adj: 0.0
+ 20240923_220823 10 cells: time: 0.012 seconds
+ 20240923_220830 Add 10 new items at 20 with sound
+ 20240923_220830 Scanning vol_adj: 0.0
+ 20240923_220830 10 cells: time: 0.013 seconds
+ 20240923_220837 Add 10 new items at 30 with sound
+ 20240923_220837 Scanning vol_adj: 0.0
+ 20240923_220837 10 cells: time: 0.022 seconds
+ 20240923_220844 Add 10 new items at 40 with sound
+ 20240923_220844 Scanning vol_adj: 0.0
+ 20240923_220850 on_alt_s
+ 20240923_220856 stop_scanning
+ 20240923_220856 speech clearing
+ 20240923_220856 self.sc_cmd_queue.qsize(): 0
+ 20240923_220856 self.sc_sound_queue.qsize(): 0
+ 20240923_220856 force_clear
+ 20240923_220856 force speech clearing
+ 20240923_220856 self.sc_cmd_queue.qsize(): 0
+ 20240923_220856 self.sc_sound_queue.qsize(): 0
+ 20240923_220856 Waiting 2000 msec
+ 20240923_220858 Restarting Speaker control
+ 20240923_220858 sc_sounc_proc_thread running
+ 20240923_220908 on_alt_s
+ 20240923_220920 on_alt_s
+ 20240923_220925 start_scanning
+ 20240923_220925 Calculating scan_items
+ 20240923_220925 
+get_perimetr loop 1
+ 20240923_220925 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220925 
+minimize loop 1
+ 20240923_220925 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220925 our_connectors:['SurroundingSquare:(17, 11)', 'SurroundingSquare:(17, 10)']
+ 20240923_220925 expansion_space:(18, 11)
+ 20240923_220925 
+
+ 20240923_220925 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++[:]_ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220925 our_connectors:['SurroundingSquare:(29, 10)', 'SurroundingSquare:(30, 10)', 'SurroundingSquare:(31, 10)']
+ 20240923_220925 expansion_space:(31, 11)
+ 20240923_220925 
+
+ 20240923_220925 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo[:]_++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220925 our_connectors:['SurroundingSquare:(32, 17)', 'SurroundingSquare:(32, 18)', 'SurroundingSquare:(32, 19)']
+ 20240923_220925 expansion_space:(31, 19)
+ 20240923_220926 
+
+ 20240923_220926 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy[:]_++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220926 our_connectors:['SurroundingSquare:(20, 20)', 'SurroundingSquare:(19, 20)', 'SurroundingSquare:(18, 20)']
+ 20240923_220926 expansion_space:(18, 19)
+ 20240923_220926 
+
+ 20240923_220926 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++[:]_ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220926 
+get_perimetr loop 2
+ 20240923_220926 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220926 
+minimize loop 1
+ 20240923_220926 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240923_220926 
+minimize loop 2
+ 20240923_220926 
+------------------------------------------------------------------------
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------
+------------------------------------------------------------------------
+
+ 20240923_220926 start_scan 
+ 20240923_220926 Add 41 new items at 0 with sound
+ 20240923_220926 Scanning vol_adj: 0.0
+ 20240923_220926 41 cells: time: 0.016 seconds
+ 20240923_220926 divide_path: 41 items in 2 sections
+ 20240923_220926 0: row: 12 col: 20
+ 20240923_220926 1: row: 20 col: 31
+ 20240923_220926 make_combine_wave: 21 items
+ 20240923_220926 make_combine_wave: 20 items
+ 20240923_221000 on_alt_s
+ 20240923_221003 stop_scanning
+ 20240923_221003 speech clearing
+ 20240923_221003 self.sc_cmd_queue.qsize(): 0
+ 20240923_221003 removing speech queue entry: SpeakerControlCmd: 73 CMD_WAVEFORM SpeakerWaveform: dur=0.1 win:. after:<bound method AdwScanner.do_wave_end of <adw_scanner.AdwScanner object at 0x000001883AE5CF80>>
+ 20240923_221003 self.sc_sound_queue.qsize(): 0
+ 20240923_221003 force_clear
+ 20240923_221003 force speech clearing
+ 20240923_221003 self.sc_cmd_queue.qsize(): 0
+ 20240923_221003 self.sc_sound_queue.qsize(): 0
+ 20240923_221003 Waiting 2000 msec
+ 20240923_221005 Restarting Speaker control
+ 20240923_221005 sc_sounc_proc_thread running
+ 20240923_221010 6
+ 20240923_221010 green at row 12 column 21
+ 20240923_221032 on_alt_n
+ 20240923_221037 set_visible:False
+ 20240923_221043 6
+ 20240923_221043 red at row 12 column 22
+ 20240923_221046 6
+ 20240923_221046 red at row 12 column 23
+ 20240923_221051 8
+ 20240923_221051 down 1 at row 11 column 23
+ 20240923_221053 5
+ 20240923_221053 down 1 at row 11 column 23
+ 20240923_221057 2
+ 20240923_221057 red at row 12 column 23
+ 20240923_221100 2
+ 20240923_221100 red at row 13 column 23
+ 20240923_221103 2
+ 20240923_221103 red at row 14 column 23
+ 20240923_221109 Left
+ 20240923_221109 red at row 14 column 22
+ 20240923_221112 Left
+ 20240923_221112 green at row 14 column 21
+ 20240923_221116 Left
+ 20240923_221116 green at row 14 column 20
+ 20240923_221119 Left
+ 20240923_221119 green at row 14 column 19
+ 20240923_221122 Left
+ 20240923_221122 18 blanks
+ 20240923_221122 right 18  at row 14 column 1
+ 20240923_221126 Right
+ 20240923_221126 17 blanks
+ 20240923_221126 right 1  at row 14 column 18
+ 20240923_221129 Right
+ 20240923_221129 green at row 14 column 19
+ 20240923_221131 Right
+ 20240923_221131 green at row 14 column 20
+ 20240923_221132 Right
+ 20240923_221132 green at row 14 column 21
+ 20240923_221135 Right
+ 20240923_221135 red at row 14 column 22
+ 20240923_221136 Down
+ 20240923_221136 4 blanks
+ 20240923_221136 left 1  at row 18 column 22
+ 20240923_221142 Up
+ 20240923_221142 3 blanks
+ 20240923_221142 left 1  at row 15 column 22
+ 20240923_221144 2
+ 20240923_221144 left 1  at row 16 column 22
+ 20240923_221147 Right
+ 20240923_221147 6 blanks
+ 20240923_221147 right 1  at row 16 column 28
+ 20240923_221150 Left
+ 20240923_221150 6 blanks
+ 20240923_221150 left 1  at row 16 column 22
+ 20240923_221153 Right
+ 20240923_221153 6 blanks
+ 20240923_221153 right 1  at row 16 column 28
+ 20240923_221155 Left
+ 20240923_221155 6 blanks
+ 20240923_221155 left 1  at row 16 column 22
+ 20240923_221200 on_alt_n
+ 20240923_221203 set_visible:True
+ 20240923_221257 z
+ 20240923_221257 draw_cells
+ 20240923_221257 x_min:-400.0 y_min: -400.0
+ 20240923_221257 Lower left: min_x:-400 min_y:-368
+ 20240923_221257 Upper Right: max_x:400 max_y:368
+ 20240923_221257 0 cells
+ 20240923_221304 on_alt_f
+ 20240923_221314 u
+ 20240923_221320 Up
+ 20240923_221320 No Drawing at row 1 column 1
+ 20240923_221331 6
+ 20240923_221331 No Drawing at row 1 column 2
+ 20240923_221341 d
+ 20240923_221343 c
+ 20240923_221343 key_color_change: 
+ 20240923_221344 cmd: color_change_cmd
+ 20240923_221344 multi...True
+ 20240923_221344 r
+ 20240923_221348 2
+ 20240923_221348 No Drawing at row 2 column 2
+ 20240923_221348 2
+ 20240923_221348 up 1 at row 3 column 2
+ 20240923_221349 2
+ 20240923_221349 up 1 at row 4 column 2
+ 20240923_221349 2
+ 20240923_221349 up 1 at row 5 column 2
+ 20240923_221350 2
+ 20240923_221350 up 1 at row 6 column 2
+ 20240923_221350 2
+ 20240923_221350 up 1 at row 7 column 2
+ 20240923_221350 2
+ 20240923_221350 up 1 at row 8 column 2
+ 20240923_221351 2
+ 20240923_221351 up 1 at row 9 column 2
+ 20240923_221352 2
+ 20240923_221352 up 1 at row 10 column 2
+ 20240923_221352 2
+ 20240923_221352 up 1 at row 11 column 2
+ 20240923_221354 8
+ 20240923_221354 red at row 10 column 2
+ 20240923_221355 8
+ 20240923_221355 red at row 9 column 2
+ 20240923_221355 8
+ 20240923_221355 red at row 8 column 2
+ 20240923_221355 8
+ 20240923_221355 red at row 7 column 2
+ 20240923_221355 8
+ 20240923_221355 red at row 6 column 2
+ 20240923_221402 c
+ 20240923_221402 key_color_change: 
+ 20240923_221402 cmd: color_change_cmd
+ 20240923_221402 multi...True
+ 20240923_221402 g
+ 20240923_221405 6
+ 20240923_221405 left 1  at row 6 column 3
+ 20240923_221405 6
+ 20240923_221405 left 1  at row 6 column 4
+ 20240923_221406 6
+ 20240923_221406 left 1  at row 6 column 5
+ 20240923_221406 6
+ 20240923_221406 left 1  at row 6 column 6
+ 20240923_221410 c
+ 20240923_221410 key_color_change: 
+ 20240923_221410 cmd: color_change_cmd
+ 20240923_221410 multi...True
+ 20240923_221412 b
+ 20240923_221417 8
+ 20240923_221417 down 1 at row 5 column 6
+ 20240923_221418 8
+ 20240923_221418 down 1 at row 4 column 6
+ 20240923_221418 8
+ 20240923_221418 down 1 at row 3 column 6
+ 20240923_221418 8
+ 20240923_221418 down 1 at row 2 column 6
+ 20240923_221420 2
+ 20240923_221420 blue at row 3 column 6
+ 20240923_221421 2
+ 20240923_221421 blue at row 4 column 6
+ 20240923_221421 2
+ 20240923_221421 blue at row 5 column 6
+ 20240923_221421 2
+ 20240923_221421 blue at row 6 column 6
+ 20240923_221424 c
+ 20240923_221424 key_color_change: 
+ 20240923_221424 cmd: color_change_cmd
+ 20240923_221424 multi...True
+ 20240923_221426 o
+ 20240923_221427 2
+ 20240923_221427 up 1 at row 7 column 6
+ 20240923_221427 2
+ 20240923_221427 up 1 at row 8 column 6
+ 20240923_221428 2
+ 20240923_221428 up 1 at row 9 column 6
+ 20240923_221428 2
+ 20240923_221428 up 1 at row 10 column 6
+ 20240923_221429 2
+ 20240923_221429 up 1 at row 11 column 6
+ 20240923_221432 u
+ 20240923_221436 6
+ 20240923_221436 left 1  at row 11 column 7
+ 20240923_221436 6
+ 20240923_221436 left 2  at row 11 column 8
+ 20240923_221437 6
+ 20240923_221437 left 3  at row 11 column 9
+ 20240923_221440 c
+ 20240923_221440 key_color_change: 
+ 20240923_221440 cmd: color_change_cmd
+ 20240923_221440 multi...True
+ 20240923_221441 y
+ 20240923_221443 8
+ 20240923_221443 left 3  at row 10 column 9
+ 20240923_221443 8
+ 20240923_221443 left 3  at row 9 column 9
+ 20240923_221443 8
+ 20240923_221443 left 3  at row 8 column 9
+ 20240923_221444 8
+ 20240923_221444 left 3  at row 7 column 9
+ 20240923_221444 8
+ 20240923_221444 left 3  at row 6 column 9
+ 20240923_221448 d
+ 20240923_221450 8
+ 20240923_221450 left 3  at row 5 column 9
+ 20240923_221450 8
+ 20240923_221450 down 1 at row 4 column 9
+ 20240923_221450 8
+ 20240923_221451 down 1 at row 3 column 9
+ 20240923_221451 8
+ 20240923_221451 down 1 at row 2 column 9
+ 20240923_221455 2
+ 20240923_221455 yellow at row 3 column 9
+ 20240923_221455 2
+ 20240923_221455 yellow at row 4 column 9
+ 20240923_221455 2
+ 20240923_221455 yellow at row 5 column 9
+ 20240923_221456 2
+ 20240923_221456 up 1 at row 6 column 9
+ 20240923_221456 2
+ 20240923_221456 up 1 at row 7 column 9
+ 20240923_221457 2
+ 20240923_221457 up 1 at row 8 column 9
+ 20240923_221457 2
+ 20240923_221457 up 1 at row 9 column 9
+ 20240923_221457 2
+ 20240923_221457 up 1 at row 10 column 9
+ 20240923_221457 2
+ 20240923_221457 up 1 at row 11 column 9
+ 20240923_221508 w
+ 20240923_221508 
+,r,,,b
+,r,,,b
+,r,,,b
+,r,,,b
+,ggggo
+,r,,,o
+,r,,,o
+,r,,,o
+,r,,,o
+,r,,,o
+
+ 20240923_221622 e
+ 20240923_221625 w
+ 20240923_221625 
+,r,,,b
+,r,,,b
+,r,,,b
+,r,,,b
+,ggggo
+,r,,,o
+,r,,,o
+,r,,,o
+,r,,,o
+,r,,,o
+
+ 20240923_221635 8
+ 20240923_221635 left 2  at row 10 column 11
+ 20240923_221637 w
+ 20240923_221637 
+,r,,,b,,y
+,r,,,b,,y
+,r,,,b,,y
+,r,,,b,,y
+,ggggo,,y
+,r,,,o,,y
+,r,,,o,,y
+,r,,,o,,y
+,r,,,o,,y
+,r,,,o,,y
+
+ 20240923_221657 2
+ 20240923_221657 up 1 at row 11 column 11
+ 20240923_221701 6
+ 20240923_221701 left 1  at row 11 column 12
+ 20240923_221704 w
+ 20240923_221704 
+,r,,,b,,y
+,r,,,b,,y
+,r,,,b,,y
+,r,,,b,,y
+,ggggo,,y
+,r,,,o,,y
+,r,,,o,,y
+,r,,,o,,y
+,r,,,o,,y,y
+,r,,,o,,y,y
+
+ 20240923_221744 w
+ 20240923_221744 
+,r,,,b,,y,,,,,,,,,,,,,yyyy
+,r,,,b,,y,,,,,,,,,yyyy,,,yyy
+,r,,,b,,y,,,,,,,,yy,,,,,,,,yyy
+,r,,,b,,y,,,,,,,,,,,,,,,,,,,,yy
+,ggggo,,y,,,,,,,,,,,,,,,,,,,,,yy
+,r,,,o,,y,,,,,,,,,,,,,,,,,,,,,,yy
+,r,,,o,,y,,,,,,,,,,,yyyyyyyy,,,,y
+,r,,,o,,y,,,,,,,,,yyy,,,,,,,yyy,y
+,r,,,o,,y,y,,,,,,,y,,,,,,,,,,,yyy
+,r,,,o,,y,yy,,,,,,y,,,,,,,,,,,,,y
+,,,,,,,,,,,,,,,,,,y,,,,,,,,,,,,yy
+,,,,,,,,,,,,,,,,,,yy,,,,,,,,,,yyy
+,,,,,,,,,,,,,,,,,,,,yyyyyyyyyy
+,,,,,,,,,,,,,,,,,,,,,,,,yy,,,,,,y
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y
+,,,,,,,yy,,,,,,,,,,,,,,,,,,,,,,yy
+,,,,,,,y,,,,,,,,,yyyyyyy,,,,,,,y
+,,,,,,,y,,,,,,,,yy,,,,,yyyy,,yyy
+,,,,,,,y,,,,,,,,,yyy,,,,,,yyyy
+,,,,,,,y,,,,,,,,,,,,yyyyyyyyy
+,,,,,,,,y,,,,,,,,,,,,,,,,,,,y
+,,,,,,,,y,,,,,,,,,,,,,,,,,,yyy
+,,,,,,,,yyyyyyyyyyyyyyyyyyyy
+
+ 20240923_221827 on_alt_f
+ 20240923_221830 fte.pgm_exit
+ 20240923_221830 BrailleDisplay.exit
+ 20240923_221830 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_colors_b.properties  20240923_221830
+ 20240923_221830_353 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_colors_b_20240923_220743.sllog

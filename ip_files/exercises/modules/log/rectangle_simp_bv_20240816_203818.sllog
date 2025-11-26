@@ -1,0 +1,15 @@
+ 20240816_203818_588 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\rectangle_simp_bv.properties
+ 20240816_203818_589 decpl = True
+ 20240816_203818_589 list_props = True
+ 20240816_203818_590 prop_change = True
+ 20240816_203818_590 stdouthasts = True
+ 20240816_203818_591 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\log\rectangle_simp_bv_20240816_203818.sllog
+ 20240816_203819 
+get_canvas_items
+ 20240816_203819 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240816_203819 TkRemHost __init__()
+ 20240816_203822 
+get_canvas_items
+ 20240816_203822 xmin=0.0, xmax=1.0, ymin=0.0,ymax=1.0, ncols=None,nrows=None
+ 20240816_203823 ix:41 >= 41
+ 20240816_203824 ix:41 >= 41

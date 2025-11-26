@@ -1,0 +1,19 @@
+ 20231005_103453 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103453_424 loadTraceFlags: decpl,stdouthasts
+ 20231005_103453_424 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_103453.sllog
+ 20231005_103453_424 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103453_439 loadTraceFlags: decpl,stdouthasts,trace_flags
+ 20231005_103453_439 
+Test Start
+ 20231005_103505_202 Test End
+
+ 20231005_103505_202 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties  20231005_103505
+ 20231005_103505_202 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103505_202 loadTraceFlags: decpl,stdouthasts,trace_flags,talk_cmd,prop_change,list_props
+ 20231005_103505_202 decpl = True
+ 20231005_103505_202 stdouthasts = True
+ 20231005_103505_202 trace_flags = True
+ 20231005_103505_202 talk_cmd = True
+ 20231005_103505_202 prop_change = True
+ 20231005_103505_202 list_props = True
+ 20231005_103505_202 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_103453.sllog

@@ -1,0 +1,35 @@
+ 20240923_225014 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_c.properties
+ 20240923_225014 decpl = False
+ 20240923_225014 stdouthasts = 0
+ 20240923_225014 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_c_20240923_225013.sllog
+ 20240923_225017 braille_title: File: square_loop_c.py  Date: 2024-09-23 22:50  User: Owner
+ 20240923_225017 sc_sounc_proc_thread running
+ 20240923_225017 canvas width: 804
+ 20240923_225017 canvas height: 804
+ 20240923_225017 sc_sounc_proc_thread running
+ 20240923_225017 File: square_loop_c.py  Date: 2024-09-23 22:50  User: Owner
+ 20240923_225018 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240923_225018 draw_cells
+ 20240923_225018 x_min:-400.0 y_min: -400.0
+ 20240923_225018 Lower left: min_x:-40 min_y:-208
+ 20240923_225018 Upper Right: max_x:240 max_y:16
+ 20240923_225018 94 cells
+ 20240923_225018 green at row 12 column 20
+ 20240923_225018 
+,,,ggrrrrrrrroo
+,,gggrrrrrrrooo
+,,gggrrrrrrrooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggggyyyyyyyyy
+,,,gggyyyyyyyyy
+

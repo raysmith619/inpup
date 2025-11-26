@@ -1,0 +1,30 @@
+ 20231005_103817 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103817_715 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_103817_715 talk_cmd = True
+ 20231005_103817_715 decpl = True
+ 20231005_103817_715 stdouthasts = True
+ 20231005_103817_715 list_props = True
+ 20231005_103817_715 prop_change = True
+ 20231005_103817_715 trace_flags = True
+ 20231005_103817_715 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_103817.sllog
+ 20231005_103817_715 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103817_715 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_103817_715 talk_cmd = True
+ 20231005_103817_715 decpl = True
+ 20231005_103817_723 stdouthasts = True
+ 20231005_103817_723 list_props = True
+ 20231005_103817_723 prop_change = True
+ 20231005_103817_724 trace_flags = True
+ 20231005_103817_724 Trace leve 20231005_103826 Test End
+
+ 20231005_103826 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties  20231005_103826
+ 20231005_103826 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103826_353 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,talk_cmd,trace_flags
+ 20231005_103826_353 decpl = True
+ 20231005_103826_353 stdouthasts = True
+ 20231005_103826_353 list_props = True
+ 20231005_103826_353 prop_change = True
+ 20231005_103826_353 talk_cmd = True
+ 20231005_103826_353 trace_flags = True
+ 20231005_103826_353 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_103817.sllog
+44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1)

@@ -1,0 +1,91 @@
+ 20231110_185525 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_185525_664 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_185525_669 decpl = True
+ 20231110_185525_669 stdouthasts = True
+ 20231110_185525_669 list_props = True
+ 20231110_185525_669 prop_change = True
+ 20231110_185525_669 trace_flags = True
+ 20231110_185525_669 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_185525.sllog
+ 20231110_185525_701 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_185525_702 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_185525_703 decpl = True
+ 20231110_185525_703 stdouthasts = True
+ 20231110_185525_704 list_props = True
+ 20231110_185525_704 prop_change = True
+ 20231110_185525_704 trace_flags = True
+ 20231110_185525_705 
+OnPaint
+ 20231110_185525_705 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185525_706 DrawRect: (50, 100),  (200, 200)
+ 20231110_185525_707 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185525_707 DrawRect: (150, 150),  (300, 300)
+ 20231110_185533_929 
+OnPaint
+ 20231110_185533_929 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185533_929 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185533_929 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185533_929 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185533_999 
+OnPaint
+ 20231110_185534_014 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185534_014 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185534_014 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185534_014 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185534_030 
+OnPaint
+ 20231110_185534_030 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185534_030 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185534_030 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185534_030 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185534_030 
+OnPaint
+ 20231110_185534_046 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185534_046 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185534_046 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185534_046 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185534_061 
+OnPaint
+ 20231110_185534_077 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185534_077 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185534_077 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185534_077 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185534_077 
+OnPaint
+ 20231110_185534_092 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185534_092 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185534_092 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185534_092 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185534_108 
+OnPaint
+ 20231110_185534_108 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185534_108 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185534_108 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185534_108 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185534_139 
+OnPaint
+ 20231110_185534_139 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185534_139 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185534_139 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185534_139 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185534_249 
+OnPaint
+ 20231110_185534_249 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185534_249 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185534_249 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185534_249 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185534_280 
+OnPaint
+ 20231110_185534_280 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_185534_280 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_185534_280 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_185534_280 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204040_212 No differences
+ 20231110_204040_215 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties  20231110_204040
+ 20231110_204040_343 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204040_343 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204040_343 decpl = True
+ 20231110_204040_343 stdouthasts = True
+ 20231110_204040_343 list_props = True
+ 20231110_204040_343 prop_change = True
+ 20231110_204040_343 trace_flags = True
+ 20231110_204040_359 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_185525.sllog

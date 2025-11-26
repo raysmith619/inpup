@@ -1,0 +1,1362 @@
+ 20240911_111808_988 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_colors.properties
+ 20240911_111809_023 decpl = True
+ 20240911_111809_030 aud_create = True
+ 20240911_111809_043 aud_motion = True
+ 20240911_111809_052 display_cell = True
+ 20240911_111809_067 get_items = True
+ 20240911_111809_078 list_props = True
+ 20240911_111809_087 motion = True
+ 20240911_111809_099 mouse_cell = True
+ 20240911_111809_110 play_tone = True
+ 20240911_111809_119 pos_tracking = True
+ 20240911_111809_133 prop_change = True
+ 20240911_111809_143 show_canvas_items = True
+ 20240911_111809_155 slow_key_str = True
+ 20240911_111809_167 sound = True
+ 20240911_111809_182 sound_queue = True
+ 20240911_111809_195 sound_volume = True
+ 20240911_111809_203 speech = True
+ 20240911_111809_212 stdouthasts = True
+ 20240911_111809_219 win_items = True
+ 20240911_111809_228 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_colors_20240911_111808.sllog
+ 20240911_111811 braille_title: File: square_loop_braille_colors.py  Date: 2024-09-11 11:18  User: Owner
+ 20240911_111812 sc_sounc_proc_thread running
+ 20240911_111812 canvas width: 804
+ 20240911_111812 canvas height: 804
+ 20240911_111812 sc_sounc_proc_thread running
+ 20240911_111812 File: square_loop_braille_colors.py  Date: 2024-09-11 11:18  User: Owner
+ 20240911_111812 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240911_111812 draw_cells
+ 20240911_111812 x_min:-400.0 y_min: -400.0
+ 20240911_111812 Lower left: min_x:-40 min_y:-208
+ 20240911_111812 Upper Right: max_x:240 max_y:16
+ 20240911_111812 94 cells
+ 20240911_111813 green at row 12 column 20
+ 20240911_111813 
+,,,ggrrrrrrrroo
+,,gggrrrrrrrooo
+,,gggrrrrrrrooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggggyyyyyyyyy
+,,,gggyyyyyyyyy
+
+ 20240911_111825 3
+ 20240911_111825 green at row 13 column 21
+ 20240911_111826 3
+ 20240911_111826 red at row 14 column 22
+ 20240911_111846 on_alt_m
+ 20240911_111852 select: ix_min:19 iy_min:11 ix_max:21 iy_max:13
+ 20240911_111856 on_alt_m
+ 20240911_111859 select: ix_min:19 iy_min:11 ix_max:21 iy_max:13
+ 20240911_111859 view select: MagI[1]: select: ix_min:19 iy_min:11 ix_max:21 iy_max:13
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+ 20240911_111859 create_magnification_window: xmin:-20.0 ymin:-48.0 xmax:40.0 ymax:48.0 nrows:25 ncols:40
+ 20240911_111859 canvas width: 804
+ 20240911_111859 canvas height: 804
+ 20240911_111859 sc_sounc_proc_thread running
+ 20240911_111859 AudioDrawWindow
+ 20240911_111859 Magnification of region minimum x: -20, minimum y: -48, maximum x: 40, maximum y: 48
+ 20240911_111859 
+AudioDrawWindow() mag_info:
+MagI[2]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-20.0 y_min:-48.0 x_max:40.0 y_max:48.0 ncols:40 nrows:25
+ parent level: 1
+    0 children
+
+ 20240911_111859 draw_cells
+ 20240911_111859 x_min:-400.0 y_min: -400.0
+ 20240911_111859 Lower left: min_x:-400 min_y:-368
+ 20240911_111859 Upper Right: max_x:400 max_y:144
+ 20240911_111859 619 cells
+ 20240911_111900 green at row 9 column 4
+ 20240911_111900 stop_scanning
+ 20240911_111900 Magnification has 619 cells
+ 20240911_111912 1
+ 20240911_111912 green at row 10 column 3
+ 20240911_111917 on_alt_m
+ 20240911_111920 select: ix_min:2 iy_min:8 ix_max:3 iy_max:9
+ 20240911_111920 view select: MagI[2]: self.description select: ix_min:2 iy_min:8 ix_max:3 iy_max:9
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-20.0 y_min:-48.0 x_max:40.0 y_max:48.0 ncols:40 nrows:25
+ parent level: 1
+    0 children
+ 20240911_111920 create_magnification_window: xmin:-17.0 ymin:-17.28 xmax:-14.0 ymax:-9.600000000000001 nrows:25 ncols:40
+ 20240911_111920 canvas width: 804
+ 20240911_111920 canvas height: 804
+ 20240911_111920 sc_sounc_proc_thread running
+ 20240911_111920 AudioDrawWindow
+ 20240911_111920 Magnification of region minimum x: -17, minimum y: -17, maximum x: -14, maximum y: -10
+ 20240911_111920 
+AudioDrawWindow() mag_info:
+MagI[3]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-17.0 y_min:-17.28 x_max:-14.0 y_max:-9.600000000000001 ncols:40 nrows:25
+ parent level: 2
+    0 children
+
+ 20240911_111920 draw_cells
+ 20240911_111920 x_min:-400.0 y_min: -400.0
+ 20240911_111920 Lower left: min_x:-400 min_y:-368
+ 20240911_111920 Upper Right: max_x:400 max_y:80
+ 20240911_111920 413 cells
+ 20240911_111921 green at row 19 column 8
+ 20240911_111921 stop_scanning
+ 20240911_111921 Magnification has 413 cells
+ 20240911_111958 on_alt_s
+ 20240911_112010 start_scanning
+ 20240911_112010 Calculating scan_items
+ 20240911_112010 
+get_perimetr loop 1
+ 20240911_112010 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112010 
+minimize loop 1
+ 20240911_112010 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112010 our_connectors:['SurroundingSquare:(1, 9)', 'SurroundingSquare:(1, 8)']
+ 20240911_112010 expansion_space:(2, 9)
+ 20240911_112010 
+
+ 20240911_112010 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112011 our_connectors:['SurroundingSquare:(1, 8)', 'SurroundingSquare:(2, 8)', 'SurroundingSquare:(3, 8)']
+ 20240911_112011 expansion_space:(3, 9)
+ 20240911_112011 
+
+ 20240911_112011 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112011 our_connectors:['SurroundingSquare:(3, 9)', 'SurroundingSquare:(3, 8)', 'SurroundingSquare:(4, 8)']
+ 20240911_112011 expansion_space:(4, 9)
+ 20240911_112011 
+
+ 20240911_112012 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112012 our_connectors:['SurroundingSquare:(3, 8)', 'SurroundingSquare:(4, 8)', 'SurroundingSquare:(5, 8)']
+ 20240911_112012 expansion_space:(5, 9)
+ 20240911_112012 
+
+ 20240911_112012 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112013 our_connectors:['SurroundingSquare:(5, 9)', 'SurroundingSquare:(5, 8)', 'SurroundingSquare:(6, 8)']
+ 20240911_112013 expansion_space:(6, 9)
+ 20240911_112013 
+
+ 20240911_112013 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112013 our_connectors:['SurroundingSquare:(5, 8)', 'SurroundingSquare:(6, 8)', 'SurroundingSquare:(7, 8)']
+ 20240911_112013 expansion_space:(7, 9)
+ 20240911_112014 
+
+ 20240911_112014 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112014 our_connectors:['SurroundingSquare:(7, 9)', 'SurroundingSquare:(7, 8)', 'SurroundingSquare:(8, 8)']
+ 20240911_112014 expansion_space:(8, 9)
+ 20240911_112014 
+
+ 20240911_112015 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112015 our_connectors:['SurroundingSquare:(7, 8)', 'SurroundingSquare:(8, 8)', 'SurroundingSquare:(9, 8)']
+ 20240911_112015 expansion_space:(9, 9)
+ 20240911_112015 
+
+ 20240911_112015 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112015 our_connectors:['SurroundingSquare:(9, 9)', 'SurroundingSquare:(9, 8)', 'SurroundingSquare:(10, 8)']
+ 20240911_112016 expansion_space:(10, 9)
+ 20240911_112016 
+
+ 20240911_112016 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112016 our_connectors:['SurroundingSquare:(9, 8)', 'SurroundingSquare:(10, 8)', 'SurroundingSquare:(11, 8)']
+ 20240911_112016 expansion_space:(11, 9)
+ 20240911_112017 
+
+ 20240911_112017 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112017 our_connectors:['SurroundingSquare:(11, 9)', 'SurroundingSquare:(11, 8)', 'SurroundingSquare:(12, 8)']
+ 20240911_112017 expansion_space:(12, 9)
+ 20240911_112017 
+
+ 20240911_112018 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112018 our_connectors:['SurroundingSquare:(11, 8)', 'SurroundingSquare:(12, 8)', 'SurroundingSquare:(13, 8)']
+ 20240911_112018 expansion_space:(13, 9)
+ 20240911_112018 
+
+ 20240911_112018 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112018 our_connectors:['SurroundingSquare:(13, 9)', 'SurroundingSquare:(13, 8)', 'SurroundingSquare:(14, 8)']
+ 20240911_112019 expansion_space:(14, 9)
+ 20240911_112019 
+
+ 20240911_112019 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112019 our_connectors:['SurroundingSquare:(13, 8)', 'SurroundingSquare:(14, 8)', 'SurroundingSquare:(15, 8)']
+ 20240911_112019 expansion_space:(15, 9)
+ 20240911_112020 
+
+ 20240911_112020 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112020 our_connectors:['SurroundingSquare:(15, 9)', 'SurroundingSquare:(15, 8)', 'SurroundingSquare:(16, 8)']
+ 20240911_112020 expansion_space:(16, 9)
+ 20240911_112020 
+
+ 20240911_112021 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112021 our_connectors:['SurroundingSquare:(15, 8)', 'SurroundingSquare:(16, 8)', 'SurroundingSquare:(17, 8)']
+ 20240911_112021 expansion_space:(17, 9)
+ 20240911_112021 
+
+ 20240911_112021 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112022 our_connectors:['SurroundingSquare:(17, 9)', 'SurroundingSquare:(17, 8)', 'SurroundingSquare:(18, 8)']
+ 20240911_112022 expansion_space:(18, 9)
+ 20240911_112022 
+
+ 20240911_112022 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112022 our_connectors:['SurroundingSquare:(17, 8)', 'SurroundingSquare:(18, 8)', 'SurroundingSquare:(19, 8)']
+ 20240911_112022 expansion_space:(19, 9)
+ 20240911_112023 
+
+ 20240911_112023 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112023 our_connectors:['SurroundingSquare:(19, 9)', 'SurroundingSquare:(19, 8)', 'SurroundingSquare:(20, 8)']
+ 20240911_112023 expansion_space:(20, 9)
+ 20240911_112023 
+
+ 20240911_112024 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112024 our_connectors:['SurroundingSquare:(19, 8)', 'SurroundingSquare:(20, 8)', 'SurroundingSquare:(21, 8)']
+ 20240911_112024 expansion_space:(21, 9)
+ 20240911_112024 
+
+ 20240911_112024 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112025 our_connectors:['SurroundingSquare:(21, 9)', 'SurroundingSquare:(21, 8)', 'SurroundingSquare:(22, 8)']
+ 20240911_112025 expansion_space:(22, 9)
+ 20240911_112025 
+
+ 20240911_112025 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112025 our_connectors:['SurroundingSquare:(21, 8)', 'SurroundingSquare:(22, 8)', 'SurroundingSquare:(23, 8)']
+ 20240911_112025 expansion_space:(23, 9)
+ 20240911_112026 
+
+ 20240911_112026 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112026 our_connectors:['SurroundingSquare:(23, 9)', 'SurroundingSquare:(23, 8)', 'SurroundingSquare:(24, 8)']
+ 20240911_112026 expansion_space:(24, 9)
+ 20240911_112026 
+
+ 20240911_112027 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112027 our_connectors:['SurroundingSquare:(23, 8)', 'SurroundingSquare:(24, 8)', 'SurroundingSquare:(25, 8)']
+ 20240911_112027 expansion_space:(25, 9)
+ 20240911_112027 
+
+ 20240911_112027 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112027 our_connectors:['SurroundingSquare:(25, 9)', 'SurroundingSquare:(25, 8)', 'SurroundingSquare:(26, 8)']
+ 20240911_112028 expansion_space:(26, 9)
+ 20240911_112028 
+
+ 20240911_112028 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112028 our_connectors:['SurroundingSquare:(25, 8)', 'SurroundingSquare:(26, 8)', 'SurroundingSquare:(27, 8)']
+ 20240911_112028 expansion_space:(27, 9)
+ 20240911_112029 
+
+ 20240911_112029 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112029 our_connectors:['SurroundingSquare:(27, 9)', 'SurroundingSquare:(27, 8)', 'SurroundingSquare:(28, 8)']
+ 20240911_112029 expansion_space:(28, 9)
+ 20240911_112029 
+
+ 20240911_112030 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112030 our_connectors:['SurroundingSquare:(27, 8)', 'SurroundingSquare:(28, 8)', 'SurroundingSquare:(29, 8)']
+ 20240911_112031 expansion_space:(29, 9)
+ 20240911_112031 
+
+ 20240911_112032 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112032 our_connectors:['SurroundingSquare:(29, 9)', 'SurroundingSquare:(29, 8)', 'SurroundingSquare:(30, 8)']
+ 20240911_112033 expansion_space:(30, 9)
+ 20240911_112033 
+
+ 20240911_112034 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112034 our_connectors:['SurroundingSquare:(29, 8)', 'SurroundingSquare:(30, 8)', 'SurroundingSquare:(31, 8)']
+ 20240911_112034 expansion_space:(31, 9)
+ 20240911_112034 
+
+ 20240911_112035 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112035 our_connectors:['SurroundingSquare:(31, 9)', 'SurroundingSquare:(31, 8)', 'SurroundingSquare:(32, 8)']
+ 20240911_112036 expansion_space:(32, 9)
+ 20240911_112036 
+
+ 20240911_112037 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112037 our_connectors:['SurroundingSquare:(31, 8)', 'SurroundingSquare:(32, 8)', 'SurroundingSquare:(33, 8)']
+ 20240911_112037 expansion_space:(33, 9)
+ 20240911_112038 
+
+ 20240911_112038 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112039 our_connectors:['SurroundingSquare:(33, 9)', 'SurroundingSquare:(33, 8)', 'SurroundingSquare:(34, 8)']
+ 20240911_112039 expansion_space:(34, 9)
+ 20240911_112039 
+
+ 20240911_112040 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112040 our_connectors:['SurroundingSquare:(33, 8)', 'SurroundingSquare:(34, 8)', 'SurroundingSquare:(35, 8)']
+ 20240911_112041 expansion_space:(35, 9)
+ 20240911_112041 
+
+ 20240911_112041 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112042 our_connectors:['SurroundingSquare:(35, 9)', 'SurroundingSquare:(35, 8)', 'SurroundingSquare:(36, 8)']
+ 20240911_112042 expansion_space:(36, 9)
+ 20240911_112042 
+
+ 20240911_112043 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_::::gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112043 our_connectors:['SurroundingSquare:(35, 8)', 'SurroundingSquare:(36, 8)', 'SurroundingSquare:(37, 8)']
+ 20240911_112043 expansion_space:(37, 9)
+ 20240911_112043 
+
+ 20240911_112044 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[:]_gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112044 our_connectors:['SurroundingSquare:(1, 21)', 'SurroundingSquare:(1, 20)', 'SurroundingSquare:(1, 19)']
+ 20240911_112044 expansion_space:(2, 19)
+ 20240911_112045 
+
+ 20240911_112045 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++[:]_::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112045 our_connectors:['SurroundingSquare:(2, 19)', 'SurroundingSquare:(1, 19)', 'SurroundingSquare:(1, 18)']
+ 20240911_112046 expansion_space:(2, 18)
+ 20240911_112046 
+
+ 20240911_112047 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++[:]_::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112047 our_connectors:['SurroundingSquare:(1, 19)', 'SurroundingSquare:(1, 18)', 'SurroundingSquare:(1, 17)']
+ 20240911_112047 expansion_space:(2, 17)
+ 20240911_112047 
+
+ 20240911_112048 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++[:]_::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112048 our_connectors:['SurroundingSquare:(2, 17)', 'SurroundingSquare:(1, 17)', 'SurroundingSquare:(1, 16)']
+ 20240911_112048 expansion_space:(2, 16)
+ 20240911_112048 
+
+ 20240911_112048 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++[:]_::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112048 our_connectors:['SurroundingSquare:(1, 17)', 'SurroundingSquare:(1, 16)', 'SurroundingSquare:(1, 15)']
+ 20240911_112049 expansion_space:(2, 15)
+ 20240911_112049 
+
+ 20240911_112049 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112049 our_connectors:['SurroundingSquare:(2, 15)', 'SurroundingSquare:(1, 15)', 'SurroundingSquare:(1, 14)']
+ 20240911_112049 expansion_space:(2, 14)
+ 20240911_112049 
+
+ 20240911_112050 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112050 our_connectors:['SurroundingSquare:(1, 15)', 'SurroundingSquare:(1, 14)', 'SurroundingSquare:(1, 13)']
+ 20240911_112050 expansion_space:(2, 13)
+ 20240911_112050 
+
+ 20240911_112051 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112051 our_connectors:['SurroundingSquare:(2, 13)', 'SurroundingSquare:(1, 13)', 'SurroundingSquare:(1, 12)']
+ 20240911_112051 expansion_space:(2, 12)
+ 20240911_112051 
+
+ 20240911_112052 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112052 our_connectors:['SurroundingSquare:(1, 13)', 'SurroundingSquare:(1, 12)', 'SurroundingSquare:(1, 11)']
+ 20240911_112053 expansion_space:(2, 11)
+ 20240911_112053 
+
+ 20240911_112053 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112054 our_connectors:['SurroundingSquare:(2, 11)', 'SurroundingSquare:(1, 11)', 'SurroundingSquare:(1, 10)']
+ 20240911_112054 expansion_space:(2, 10)
+ 20240911_112054 
+
+ 20240911_112055 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112055 
+get_perimetr loop 2
+ 20240911_112055 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112056 
+minimize loop 1
+ 20240911_112056 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112056 
+minimize loop 2
+ 20240911_112056 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112057 our_connectors:['SurroundingSquare:(3, 9)', 'SurroundingSquare:(4, 9)']
+ 20240911_112057 expansion_space:(3, 10)
+ 20240911_112057 
+
+ 20240911_112058 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++gggggggg
+--------++++[:]_::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+--------++++::::::::::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++++++::::::::gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+----++++gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+ 20240911_112058 expansion_space:(4, 10)
+ 20240911_112058 
+

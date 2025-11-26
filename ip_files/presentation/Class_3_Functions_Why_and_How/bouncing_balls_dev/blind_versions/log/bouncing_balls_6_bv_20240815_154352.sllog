@@ -1,0 +1,35 @@
+ 20240815_154352 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_3_Functions_Why_and_How\bouncing_balls_dev\blind_versions\bouncing_balls_6_bv.properties
+ 20240815_154352 decpl = False
+ 20240815_154352 stdouthasts = 0
+ 20240815_154352 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_3_Functions_Why_and_How\bouncing_balls_dev\blind_versions\log\bouncing_balls_6_bv_20240815_154352.sllog
+ 20240815_154352 pyt_proc_thread running
+ 20240815_154353 pyts3_queue.get():
+Test Start
+ 20240815_154353 starting run_and_wait_thread_proc
+ 20240815_154353 AFTER thread start()
+ 20240815_154354 AFTER thread join()
+ 20240815_154354 pyts3_queue.get():off top
+ 20240815_154354 AFTER thread start()
+ 20240815_154354 starting run_and_wait_thread_proc
+ 20240815_154356 AFTER thread join()
+ 20240815_154356 pyts3_queue.get():indigo
+ 20240815_154356 AFTER thread start()
+ 20240815_154356 starting run_and_wait_thread_proc
+ 20240815_154357 AFTER thread join()
+ 20240815_154357 pyts3_queue.get():5 oclock
+ 20240815_154357 AFTER thread start()
+ 20240815_154357 starting run_and_wait_thread_proc
+ 20240815_154359 AFTER thread join()
+ 20240815_154359 pyts3_queue.get():off right
+ 20240815_154359 AFTER thread start()
+ 20240815_154359 starting run_and_wait_thread_proc
+ 20240815_154400 AFTER thread join()
+ 20240815_154400 pyts3_queue.get():violet
+ 20240815_154400 AFTER thread start()
+ 20240815_154400 starting run_and_wait_thread_proc
+ 20240815_154402 AFTER thread join()
+ 20240815_154402 pyts3_queue.get():7 oclock
+ 20240815_154742 AFTER thread start()
+ 20240815_154742 starting run_and_wait_thread_proc
+ 20240815_154743 AFTER thread join()
+ 20240815_154743 pyts3_queue.get():0.0y

@@ -1,0 +1,31 @@
+ 20231005_103801 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103801_748 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,talk_cmd,trace_flags
+ 20231005_103801_748 decpl = True
+ 20231005_103801_748 stdouthasts = True
+ 20231005_103801_748 list_props = True
+ 20231005_103801_748 prop_change = True
+ 20231005_103801_748 talk_cmd = True
+ 20231005_103801_748 trace_flags = True
+ 20231005_103801_748 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_103801.sllog
+ 20231005_103801_748 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103801_748 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,talk_cmd,trace_flags
+ 20231005_103801_756 decpl = True
+ 20231005_103801_760 stdouthasts = True
+ 20231005_103801_761 list_props = True
+ 20231005_103801_761 prop_change = True
+ 20231005_103801_762 talk_cmd = True
+ 20231005_103801_764 trace_flags = True
+ 20231005_103801 
+Test Start
+ 20231005_103813 Test End
+
+ 20231005_103813 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties  20231005_103813
+ 20231005_103813 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103813_448 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,talk_cmd,trace_flags
+ 20231005_103813_448 decpl = True
+ 20231005_103813_448 stdouthasts = True
+ 20231005_103813_448 list_props = True
+ 20231005_103813_448 prop_change = True
+ 20231005_103813_448 talk_cmd = True
+ 20231005_103813_448 trace_flags = True
+ 20231005_103813_448 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_103801.sllog

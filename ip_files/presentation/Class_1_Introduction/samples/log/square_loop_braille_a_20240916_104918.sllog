@@ -1,0 +1,33 @@
+ 20240916_104918 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_a.properties
+ 20240916_104918 decpl = False
+ 20240916_104918 stdouthasts = 0
+ 20240916_104918 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_a_20240916_104918.sllog
+ 20240916_104922 braille_title: File: square_loop_braille_a.py  Date: 2024-09-16 10:49  User: Owner
+ 20240916_104923 sc_sounc_proc_thread running
+ 20240916_104923 canvas width: 804
+ 20240916_104923 canvas height: 804
+ 20240916_104923 sc_sounc_proc_thread running
+ 20240916_104923 File: square_loop_braille_a.py  Date: 2024-09-16 10:49  User: Owner
+ 20240916_104923 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240916_104923 draw_cells
+ 20240916_104923 x_min:-400.0 y_min: -400.0
+ 20240916_104923 Lower left: min_x:-20 min_y:-176
+ 20240916_104923 Upper Right: max_x:220 max_y:-16
+ 20240916_104923 44 cells
+ 20240916_104923 red at row 13 column 20
+ 20240916_104923 
+,,rrrrrrrrrrr
+,,rr,,,,,,,,r
+,,rr,,,,,,,,r
+,,rr,,,,,,,,r
+,,rr,,,,,,,,r
+,,rr,,,,,,,,r
+,,rrrrrrrrrrr
+

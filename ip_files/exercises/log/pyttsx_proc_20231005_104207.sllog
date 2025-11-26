@@ -1,0 +1,36 @@
+ 20231005_104207 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_104207_198 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_104207_198 talk_cmd = True
+ 20231005_104207_198 decpl = True
+ 20231005_104207_198 stdouthasts = True
+ 20231005_104207_198 list_props = True
+ 20231005_104207_198 prop_change = True
+ 20231005_104207_198 trace_flags = True
+ 20231005_104207_198 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_104207.sllog
+ 20231005_104207_231 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_104207_231 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_104207_231 talk_cmd = True
+ 20231005_104207_231 decpl = True
+ 20231005_104207_231 stdouthasts = True
+ 20231005_104207_231 list_props = True
+ 20231005_104207_231 prop_change = True
+ 20231005_104207_231 trace_flags = True
+ 20231005_104207_247 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_104207_247 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_104207_247 talk_cmd = True
+ 20231005_104207_247 decpl = True
+ 20231005_104207_263 stdouthasts = True
+ 20231005_104207_263 list_props = True
+ 20231005_104207_263 prop_change = True
+ 20231005_104207_263 trace_flags = True
+ 20231005_104207_263 After eng.say(How are you?)
+ 20231005_104208_451 after eng.runAndWait()
+ 20231005_104208_451 after engine_runAndWait()
+ 20231005_104208_467 do_cmd - queue size: 1
+ 20231005_104208_473 After eng.say(How's the weather?)
+ 20231005_104210_995 after eng.runAndWait()
+ 20231005_104210_995 after engine_runAndWait()
+ 20231005_104210_995 do_cmd - queue size: 1
+ 20231005_104210_995 After eng.say(Good Bye for now.)
+ 20231005_104212_272 after eng.runAndWait()
+ 20231005_104212_272 after engine_runAndWait()

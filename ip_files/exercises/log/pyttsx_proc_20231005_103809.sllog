@@ -1,0 +1,33 @@
+ 20231005_103809 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103809_332 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_103809_342 talk_cmd = True
+ 20231005_103809_362 decpl = True
+ 20231005_103809_403 stdouthasts = True
+ 20231005_103809_413 list_props = True
+ 20231005_103809_451 prop_change = True
+ 20231005_103809_464 trace_flags = True
+ 20231005_103809_484 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_103809.sllog
+ 20231005_103809_514 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103809_514 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_103809_514 talk_cmd = True
+ 20231005_103809_514 decpl = True
+ 20231005_103809_522 stdouthasts = True
+ 20231005_103809_522 list_props = True
+ 20231005_103809_522 prop_change = True
+ 20231005_103809_522 trace_flags = True
+ 20231005_103809_522 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_103809_524 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_103809_524 talk_cmd = True
+ 20231005_103809_524 decpl = True
+ 20231005_103809_524 stdouthasts = True
+ 20231005_103809_524 list_props = True
+ 20231005_103809_524 prop_change = True
+ 20231005_103809_524 trace_flags = True
+ 20231005_103809_524 After eng.say(How are you?)
+ 20231005_103811_090 after eng.runAndWait()
+ 20231005_103811_090 after engine_runAndWait()
+ 20231005_103811_090 do_cmd - queue size: 2
+ 20231005_103811_090 After eng.say(How's the weather?)
+ 20231005_103813_405 after eng.runAndWait()
+ 20231005_103813_405 after engine_runAndWait()
+ 20231005_103813_405 do_cmd - queue size: 1

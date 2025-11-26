@@ -1,0 +1,11 @@
+ 20240816_212223 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\square_simp_bv.properties
+ 20240816_212223 decpl = False
+ 20240816_212223 stdouthasts = 0
+ 20240816_212223 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\log\square_simp_bv_20240816_212223.sllog
+ 20240816_212224 
+get_canvas_items
+ 20240816_212224 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240816_212224 TkRemHost __init__()
+ 20240816_212228 
+get_canvas_items
+ 20240816_212228 xmin=0.0, xmax=1.0, ymin=0.0,ymax=1.0, ncols=None,nrows=None

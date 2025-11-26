@@ -1,0 +1,44 @@
+ 20231110_175501 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_175502_011 loadTraceFlags: decpl,stdouthasts
+ 20231110_175502_011 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_175501.sllog
+ 20231110_175502_011 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_175502_105 loadTraceFlags: decpl,stdouthasts,trace_flags
+ 20231110_175502_105 
+OnPaint
+ 20231110_175502_120 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_175502_120 DrawRect: (50, 100),  (200, 200)
+ 20231110_175502_120 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_175502_120 DrawRect: (150, 150),  (300, 300)
+ 20231110_175549_559 
+OnPaint
+ 20231110_175549_559 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_175549_559 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_175549_559 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_175549_559 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_175549_654 
+OnPaint
+ 20231110_175549_654 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_175549_654 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_175549_654 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_175549_654 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_175549_748 
+OnPaint
+ 20231110_175549_748 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_175549_748 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_175549_748 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_175549_748 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_175549_873 
+OnPaint
+ 20231110_175549_873 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_175549_873 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_175549_873 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_175549_873 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_185518_696 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties  20231110_185518
+ 20231110_185518_737 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_185518_753 loadTraceFlags: decpl,stdouthasts,trace_flags,prop_change,list_props
+ 20231110_185518_753 decpl = True
+ 20231110_185518_753 stdouthasts = True
+ 20231110_185518_753 trace_flags = True
+ 20231110_185518_753 prop_change = True
+ 20231110_185518_768 list_props = True
+ 20231110_185518_768 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_175501.sllog

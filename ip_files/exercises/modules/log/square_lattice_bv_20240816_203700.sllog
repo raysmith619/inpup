@@ -1,0 +1,25 @@
+ 20240816_203700_317 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\square_lattice_bv.properties
+ 20240816_203700_317 decpl = True
+ 20240816_203700_318 list_props = True
+ 20240816_203700_318 prop_change = True
+ 20240816_203700_318 stdouthasts = True
+ 20240816_203700_318 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\log\square_lattice_bv_20240816_203700.sllog
+ 20240816_203700 
+get_canvas_items
+ 20240816_203700 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240816_203700 TkRemHost __init__()
+ 20240816_203703 
+get_canvas_items
+ 20240816_203703 xmin=0.0, xmax=1.0, ymin=0.0,ymax=1.0, ncols=None,nrows=None
+ 20240816_203704 ix:41 >= 41
+ 20240816_203705 ix:41 >= 41
+ 20240816_203726 
+get_canvas_items
+ 20240816_203726 xmin=0.0, xmax=0.025, ymin=0.56,ymax=0.6, ncols=None,nrows=None
+ 20240816_203727 ix:41 >= 41
+ 20240816_203728 
+get_canvas_items
+ 20240816_203728 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240816_203734 Subprocess exited with rc:0
+ 20240816_203734 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\square_lattice_bv.properties  20240816_203734
+ 20240816_203734_611 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\log\square_lattice_bv_20240816_203700.sllog

@@ -1,0 +1,63 @@
+ 20231110_174231 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_174231_096 loadTraceFlags: decpl,stdouthasts
+ 20231110_174231_098 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_174231.sllog
+ 20231110_174231_100 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_174231_120 loadTraceFlags: decpl,stdouthasts,trace_flags
+ 20231110_174231_122 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174231_126 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174337_849 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174337_849 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174337_864 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174337_869 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174337_878 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174337_878 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174337_894 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174337_894 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174337_894 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174337_894 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174337_925 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174337_925 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174337_925 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174337_925 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_329 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_344 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_399 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_399 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_399 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_414 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_430 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_430 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_446 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_446 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_461 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_461 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_461 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_477 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_477 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_477 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_492 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_492 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_508 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_508 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_524 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_524 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_539 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_539 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_539 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_555 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_555 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_570 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_570 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_586 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_586 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_586 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_617 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_617 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_623 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_623 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_633 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_633 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_664 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_664 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_174411_680 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_174411_695 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}

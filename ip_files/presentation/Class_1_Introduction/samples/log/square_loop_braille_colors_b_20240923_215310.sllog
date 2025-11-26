@@ -1,0 +1,266 @@
+ 20240923_215310_117 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_colors_b.properties
+ 20240923_215310_148 decpl = True
+ 20240923_215310_161 aud_create = True
+ 20240923_215310_171 display_cell = True
+ 20240923_215310_179 get_items = True
+ 20240923_215310_184 list_props = True
+ 20240923_215310_189 motion = True
+ 20240923_215310_195 mouse_cell = True
+ 20240923_215310_200 play_tone = True
+ 20240923_215310_204 pos_tracking = True
+ 20240923_215310_217 prop_change = True
+ 20240923_215310_227 show_canvas_items = True
+ 20240923_215310_232 slow_key_str = True
+ 20240923_215310_238 sound = True
+ 20240923_215310_244 sound_queue = True
+ 20240923_215310_249 sound_volume = True
+ 20240923_215310_254 speech = True
+ 20240923_215310_260 stdouthasts = True
+ 20240923_215310_267 win_items = True
+ 20240923_215310_273 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_colors_b_20240923_215310.sllog
+ 20240923_215313 braille_title: File: square_loop_braille_colors_b.py  Date: 2024-09-23 21:53  User: Owner
+ 20240923_215313 sc_sounc_proc_thread running
+ 20240923_215314 canvas width: 804
+ 20240923_215314 canvas height: 804
+ 20240923_215314 sc_sounc_proc_thread running
+ 20240923_215314 File: square_loop_braille_colors_b.py  Date: 2024-09-23 21:53  User: Owner
+ 20240923_215314 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240923_215314 draw_cells
+ 20240923_215314 x_min:-400.0 y_min: -400.0
+ 20240923_215314 Lower left: min_x:-40 min_y:-208
+ 20240923_215314 Upper Right: max_x:240 max_y:16
+ 20240923_215314 94 cells
+ 20240923_215314 green at row 12 column 20
+ 20240923_215314 
+,,,ggrrrrrrrroo
+,,gggrrrrrrrooo
+,,gggrrrrrrrooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggggyyyyyyyyy
+,,,gggyyyyyyyyy
+
+ 20240923_215334 on_alt_n
+ 20240923_215402 on_alt_m
+ 20240923_215407 select: ix_min:19 iy_min:11 ix_max:21 iy_max:13
+ 20240923_215413 on_alt_m
+ 20240923_215417 select: ix_min:19 iy_min:11 ix_max:21 iy_max:13
+ 20240923_215417 view select: MagI[1]: select: ix_min:19 iy_min:11 ix_max:21 iy_max:13
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+ 20240923_215417 create_magnification_window: xmin:-20.0 ymin:-48.0 xmax:40.0 ymax:48.0 nrows:25 ncols:40
+ 20240923_215417 canvas width: 804
+ 20240923_215417 canvas height: 804
+ 20240923_215417 sc_sounc_proc_thread running
+ 20240923_215417 AudioDrawWindow
+ 20240923_215417 Magnification of region minimum x: -20, minimum y: -48, maximum x: 40, maximum y: 48
+ 20240923_215417 
+AudioDrawWindow() mag_info:
+MagI[2]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-20.0 y_min:-48.0 x_max:40.0 y_max:48.0 ncols:40 nrows:25
+ parent level: 1
+    0 children
+
+ 20240923_215417 draw_cells
+ 20240923_215417 x_min:-400.0 y_min: -400.0
+ 20240923_215417 Lower left: min_x:-400 min_y:-368
+ 20240923_215417 Upper Right: max_x:400 max_y:144
+ 20240923_215417 619 cells
+ 20240923_215418 green at row 9 column 4
+ 20240923_215418 stop_scanning
+ 20240923_215418 Magnification has 619 cells
+ 20240923_215439 on_alt_m
+ 20240923_215441 select: ix_min:3 iy_min:8 ix_max:3 iy_max:8
+ 20240923_215441 view select: MagI[2]: self.description select: ix_min:3 iy_min:8 ix_max:3 iy_max:8
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-20.0 y_min:-48.0 x_max:40.0 y_max:48.0 ncols:40 nrows:25
+ parent level: 1
+    0 children
+ 20240923_215441 create_magnification_window: xmin:-15.5 ymin:-17.28 xmax:-14.0 ymax:-13.439999999999998 nrows:25 ncols:40
+ 20240923_215441 canvas width: 804
+ 20240923_215441 canvas height: 804
+ 20240923_215441 sc_sounc_proc_thread running
+ 20240923_215441 AudioDrawWindow
+ 20240923_215441 Magnification of region minimum x: -16, minimum y: -17, maximum x: -14, maximum y: -13
+ 20240923_215441 
+AudioDrawWindow() mag_info:
+MagI[3]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-15.5 y_min:-17.28 x_max:-14.0 y_max:-13.439999999999998 ncols:40 nrows:25
+ parent level: 2
+    0 children
+
+ 20240923_215441 draw_cells
+ 20240923_215441 x_min:-400.0 y_min: -400.0
+ 20240923_215441 Lower left: min_x:-40 min_y:-368
+ 20240923_215441 Upper Right: max_x:400 max_y:-240
+ 20240923_215441 76 cells
+ 20240923_215442 green at row 23 column 26
+ 20240923_215442 stop_scanning
+ 20240923_215442 Magnification has 76 cells
+ 20240923_220450 on_alt_m
+ 20240923_220452 select: ix_min:25 iy_min:22 ix_max:25 iy_max:22
+ 20240923_220452 view select: MagI[3]: self.description select: ix_min:25 iy_min:22 ix_max:25 iy_max:22
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-15.5 y_min:-17.28 x_max:-14.0 y_max:-13.439999999999998 ncols:40 nrows:25
+ parent level: 2
+    0 children
+ 20240923_220452 create_magnification_window: xmin:-14.5625 ymin:-13.900799999999998 xmax:-14.525 ymax:-13.747199999999998 nrows:25 ncols:40
+ 20240923_220452 canvas width: 804
+ 20240923_220452 canvas height: 804
+ 20240923_220453 sc_sounc_proc_thread running
+ 20240923_220453 AudioDrawWindow
+ 20240923_220453 Magnification of region minimum x: -15, minimum y: -14, maximum x: -15, maximum y: -14
+ 20240923_220453 
+AudioDrawWindow() mag_info:
+MagI[4]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-14.5625 y_min:-13.900799999999998 x_max:-14.525 y_max:-13.747199999999998 ncols:40 nrows:25
+ parent level: 3
+    0 children
+
+ 20240923_220453 draw_cells
+ 20240923_220453 x_min:-400.0 y_min: -400.0
+ 20240923_220453 Lower left: min_x:360 min_y:-368
+ 20240923_220453 Upper Right: max_x:400 max_y:-400
+ 20240923_220453 2 cells
+ 20240923_220453 green at row 25 column 39
+ 20240923_220453 stop_scanning
+ 20240923_220453 Magnification has 2 cells
+ 20240923_220520 on_alt_m
+ 20240923_220523 select: ix_min:38 iy_min:24 ix_max:38 iy_max:24
+ 20240923_220523 view select: MagI[4]: self.description select: ix_min:38 iy_min:24 ix_max:38 iy_max:24
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-14.5625 y_min:-13.900799999999998 x_max:-14.525 y_max:-13.747199999999998 ncols:40 nrows:25
+ parent level: 3
+    0 children
+ 20240923_220523 create_magnification_window: xmin:-14.526875 ymin:-13.753343999999998 xmax:-14.5259375 ymax:-13.747199999999998 nrows:25 ncols:40
+ 20240923_220523 canvas width: 804
+ 20240923_220523 canvas height: 804
+ 20240923_220523 sc_sounc_proc_thread running
+ 20240923_220523 AudioDrawWindow
+ 20240923_220523 Magnification of region minimum x: -15, minimum y: -14, maximum x: -15, maximum y: -14
+ 20240923_220523 
+AudioDrawWindow() mag_info:
+MagI[5]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-14.526875 y_min:-13.753343999999998 x_max:-14.5259375 y_max:-13.747199999999998 ncols:40 nrows:25
+ parent level: 4
+    0 children
+
+ 20240923_220523 draw_cells
+ 20240923_220523 x_min:-400.0 y_min: -400.0
+ 20240923_220523 Lower left: min_x:40 min_y:-368
+ 20240923_220523 Upper Right: max_x:400 max_y:-368
+ 20240923_220523 26 cells
+ 20240923_220523 green at row 25 column 23
+ 20240923_220523 stop_scanning
+ 20240923_220523 Magnification has 26 cells
+ 20240923_220538 on_alt_m
+ 20240923_220541 select: ix_min:22 iy_min:24 ix_max:22 iy_max:24
+ 20240923_220541 view select: MagI[5]: self.description select: ix_min:22 iy_min:24 ix_max:22 iy_max:24
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-14.526875 y_min:-13.753343999999998 x_max:-14.5259375 y_max:-13.747199999999998 ncols:40 nrows:25
+ parent level: 4
+    0 children
+ 20240923_220541 create_magnification_window: xmin:-14.526359375 ymin:-13.747445759999998 xmax:-14.5263359375 ymax:-13.747199999999998 nrows:25 ncols:40
+ 20240923_220541 canvas width: 804
+ 20240923_220541 canvas height: 804
+ 20240923_220541 sc_sounc_proc_thread running
+ 20240923_220541 AudioDrawWindow
+ 20240923_220541 Magnification of region minimum x: -15, minimum y: -14, maximum x: -15, maximum y: -14
+ 20240923_220541 
+AudioDrawWindow() mag_info:
+MagI[6]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-14.526359375 y_min:-13.747445759999998 x_max:-14.5263359375 y_max:-13.747199999999998 ncols:40 nrows:25
+ parent level: 5
+    0 children
+
+ 20240923_220541 draw_cells
+ 20240923_220541 x_min:-400.0 y_min: -400.0
+ 20240923_220541 Lower left: min_x:320 min_y:-368
+ 20240923_220541 Upper Right: max_x:400 max_y:-400
+ 20240923_220542 4 cells
+ 20240923_220542 green at row 25 column 37
+ 20240923_220542 stop_scanning
+ 20240923_220542 Magnification has 4 cells
+ 20240923_220547 on_alt_m
+ 20240923_220550 select: ix_min:36 iy_min:24 ix_max:36 iy_max:24
+ 20240923_220550 view select: MagI[6]: self.description select: ix_min:36 iy_min:24 ix_max:36 iy_max:24
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-14.526359375 y_min:-13.747445759999998 x_max:-14.5263359375 y_max:-13.747199999999998 ncols:40 nrows:25
+ parent level: 5
+    0 children
+ 20240923_220550 create_magnification_window: xmin:-14.52633828125 ymin:-13.747209830399997 xmax:-14.5263376953125 ymax:-13.747199999999998 nrows:25 ncols:40
+ 20240923_220550 canvas width: 804
+ 20240923_220550 canvas height: 804
+ 20240923_220550 sc_sounc_proc_thread running
+ 20240923_220550 AudioDrawWindow
+ 20240923_220550 speak_text - in run loop - ignored
+ 20240923_220550 Magnification of region minimum x: -15, minimum y: -14, maximum x: -15, maximum y: -14
+ 20240923_220550 speak_text - in run loop - ignored
+ 20240923_220550 
+AudioDrawWindow() mag_info:
+MagI[7]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-14.52633828125 y_min:-13.747209830399997 x_max:-14.5263376953125 y_max:-13.747199999999998 ncols:40 nrows:25
+ parent level: 6
+    0 children
+
+ 20240923_220550 draw_cells
+ 20240923_220550 x_min:-400.0 y_min: -400.0
+ 20240923_220550 Lower left: min_x:140 min_y:-368
+ 20240923_220550 Upper Right: max_x:400 max_y:-400
+ 20240923_220550 13 cells
+ 20240923_220550 green at row 25 column 28
+ 20240923_220550 speak_text - in run loop - ignored
+ 20240923_220550 stop_scanning
+ 20240923_220550 Magnification has 13 cells
+ 20240923_220550 speak_text - in run loop - ignored
+ 20240923_220556 on_alt_m
+ 20240923_220557 select: ix_min:27 iy_min:24 ix_max:27 iy_max:24
+ 20240923_220557 view select: MagI[7]: self.description select: ix_min:27 iy_min:24 ix_max:27 iy_max:24
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-14.52633828125 y_min:-13.747209830399997 x_max:-14.5263376953125 y_max:-13.747199999999998 ncols:40 nrows:25
+ parent level: 6
+    0 children
+ 20240923_220558 create_magnification_window: xmin:-14.526337885742189 ymin:-13.747200393215998 xmax:-14.52633787109375 ymax:-13.747199999999998 nrows:25 ncols:40
+ 20240923_220558 canvas width: 804
+ 20240923_220558 canvas height: 804
+ 20240923_220558 sc_sounc_proc_thread running
+ 20240923_220558 AudioDrawWindow
+ 20240923_220558 Magnification of region minimum x: -15, minimum y: -14, maximum x: -15, maximum y: -14
+ 20240923_220558 
+AudioDrawWindow() mag_info:
+MagI[8]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-14.526337885742189 y_min:-13.747200393215998 x_max:-14.52633787109375 y_max:-13.747199999999998 ncols:40 nrows:25
+ parent level: 7
+    0 children
+
+ 20240923_220558 draw_cells
+ 20240923_220558 x_min:-400.0 y_min: -400.0
+ 20240923_220558 Lower left: min_x:-20 min_y:-368
+ 20240923_220558 Upper Right: max_x:400 max_y:-400
+ 20240923_220558 21 cells
+ 20240923_220558 green at row 25 column 20
+ 20240923_220558 stop_scanning
+ 20240923_220558 Magnification has 21 cells
+ 20240923_220606 on_alt_f
+ 20240923_220607 fte.pgm_exit
+ 20240923_220607 BrailleDisplay.exit
+ 20240923_220607 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_colors_b.properties  20240923_220607
+ 20240923_220607_919 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_colors_b_20240923_215310.sllog

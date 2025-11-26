@@ -1,0 +1,39 @@
+ 20240911_105640 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_width.properties
+ 20240911_105640 decpl = False
+ 20240911_105640 stdouthasts = 0
+ 20240911_105641 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_width_20240911_105640.sllog
+ 20240911_105643 braille_title: File: square_loop_braille_width.py  Date: 2024-09-11 10:56  User: Owner
+ 20240911_105644 sc_sounc_proc_thread running
+ 20240911_105644 canvas width: 804
+ 20240911_105644 canvas height: 804
+ 20240911_105644 sc_sounc_proc_thread running
+ 20240911_105644 File: square_loop_braille_width.py  Date: 2024-09-11 10:56  User: Owner
+ 20240911_105644 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240911_105644 draw_cells
+ 20240911_105644 x_min:-400.0 y_min: -400.0
+ 20240911_105644 Lower left: min_x:-40 min_y:-208
+ 20240911_105644 Upper Right: max_x:240 max_y:16
+ 20240911_105644 94 cells
+ 20240911_105644 red at row 12 column 20
+ 20240911_105644 
+,,,rrrrrrrrrrrr
+,,rrrrrrrrrrrrr
+,,rrrrrrrrrrrrr
+,,rrr,,,,,,,rrr
+,,rrr,,,,,,,rrr
+,,rrr,,,,,,,rrr
+,,rrr,,,,,,,rrr
+,,rrrrrrrrrrrrr
+,,,rrrrrrrrrrrr
+
+ 20240911_105651 fte.pgm_exit
+ 20240911_105651 BrailleDisplay.exit
+ 20240911_105651 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_width.properties  20240911_105651
+ 20240911_105651_277 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_width_20240911_105640.sllog

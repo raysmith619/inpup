@@ -1,0 +1,51 @@
+ 20240816_175425_808 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\rectangle_simp_bv.properties
+ 20240816_175425_809 decpl = True
+ 20240816_175425_809 list_props = True
+ 20240816_175425_809 prop_change = True
+ 20240816_175425_809 stdouthasts = True
+ 20240816_175425_810 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\log\rectangle_simp_bv_20240816_175425.sllog
+ 20240816_175427 braille_title: File: rectangle_simp_bv.py  Date: 2024-08-16 17:54  User: Owner
+ 20240816_175428 sc_sounc_proc_thread running
+ 20240816_175428 canvas width: 804
+ 20240816_175428 canvas height: 804
+ 20240816_175428 sc_sounc_proc_thread running
+ 20240816_175428 File: rectangle_simp_bv.py  Date: 2024-08-16 17:54  User: Owner
+ 20240816_175428 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240816_175428 draw_cells
+ 20240816_175428 x_min:-400.0 y_min: -400.0
+ 20240816_175428 Lower left: min_x:-400 min_y:-368
+ 20240816_175428 Upper Right: max_x:400 max_y:368
+ 20240816_175428 362 cells
+ 20240816_175429 red at row 9 column 1
+ 20240816_175429 ,,,,,,,,,,,,,,,,,,,,,,,,,,yyyyyyyyyyyyy
+,,,,,,,,,,,,,,,,,,,,,,,,,,y
+,,,,,,,,,,,,,,,,,,,,,,,,,,y
+,,,,,,,,,,,,,,,,,,,,,,,,,,y
+,,,,,,,,,,,,,,,,,,,,,,,,,,y
+,,,,,,,,,,,,,,,,,,,,,,,,,,y
+,,,,,,,,,,,,,,,,,,,,,,,,,,y
+,,,,,,,,,,,,,oooooooooooooyoooooooooooo
+rrrrrrrrrrrrroooooooooooooyyyyyyyyyyyyy
+r,,,,,,,,,,,,oooooooooooooooooooooooooo
+r,,,,,,,,,,,,oooooooooooooooooooooooooo
+r,,,,,,,,,,,,oooooooooooooooooooooooooo
+r,,,,,,,,,,,,oooooooooooooooooooooooooo
+r,,,,,,,,,,,,oooooooooooooooooooooooooo
+r,,,,,,,,,,,,oooooooooooooooooooooooooo
+r,,,,,,,,,,,,oooooooooooooooooooooooooo
+r,,,,,,,,,,,,oooooooooooooooooooooooooo
+r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,r
+r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,r
+r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,r
+r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,r
+r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,r
+r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,r
+r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,r
+

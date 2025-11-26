@@ -1,0 +1,36 @@
+ 20231005_104200 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_104200_536 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_104200_536 talk_cmd = True
+ 20231005_104200_536 decpl = True
+ 20231005_104200_536 stdouthasts = True
+ 20231005_104200_536 list_props = True
+ 20231005_104200_536 prop_change = True
+ 20231005_104200_536 trace_flags = True
+ 20231005_104200_536 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_104200.sllog
+ 20231005_104200_536 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_104200_536 loadTraceFlags: talk_cmd,decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231005_104200_536 talk_cmd = True
+ 20231005_104200_536 decpl = True
+ 20231005_104200_543 stdouthasts = True
+ 20231005_104200_543 list_props = True
+ 20231005_104200_544 prop_change = True
+ 20231005_104200_544 trace_flags = True
+ 20231005_104200_546 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction 20231005_104204 make_cmd - queue size: 1
+ 20231005_104204 make_cmd - queue size: 2
+ 20231005_104210 make_cmd - queue size: 1
+ 20231005_104210 Quitting
+ 20231005_104212 kill
+ 20231005_104212 join
+ 20231005_104212 After quit
+ 20231005_104212 Test End
+
+ 20231005_104212 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties  20231005_104212
+ 20231005_104212 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\pyttsx_proc.properties
+ 20231005_104212_297 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,talk_cmd,trace_flags
+ 20231005_104212_297 decpl = True
+ 20231005_104212_297 stdouthasts = True
+ 20231005_104212_297 list_props = True
+ 20231005_104212_297 prop_change = True
+ 20231005_104212_297 talk_cmd = True
+ 20231005_104212_297 trace_flags = True
+ 20231005_104212_297 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\log\pyttsx_proc_20231005_104200.sllog

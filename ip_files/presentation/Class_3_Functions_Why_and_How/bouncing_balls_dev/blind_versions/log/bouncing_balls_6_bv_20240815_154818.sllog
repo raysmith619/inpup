@@ -1,0 +1,49 @@
+ 20240815_154818 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_3_Functions_Why_and_How\bouncing_balls_dev\blind_versions\bouncing_balls_6_bv.properties
+ 20240815_154818 decpl = False
+ 20240815_154818 stdouthasts = 0
+ 20240815_154818 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_3_Functions_Why_and_How\bouncing_balls_dev\blind_versions\log\bouncing_balls_6_bv_20240815_154818.sllog
+ 20240815_154818 pyt_proc_thread running
+ 20240815_154818 pyts3_queue.get():
+Test Start
+ 20240815_154818 AFTER thread start()
+ 20240815_154818 starting run_and_wait_thread_proc
+ 20240815_154819 AFTER thread join()
+ 20240815_154820 pyts3_queue.get():off top
+ 20240815_154820 AFTER thread start()
+ 20240815_154820 starting run_and_wait_thread_proc
+ 20240815_154821 AFTER thread join()
+ 20240815_154821 pyts3_queue.get():indigo
+ 20240815_154821 AFTER thread start()
+ 20240815_154821 starting run_and_wait_thread_proc
+ 20240815_154822 AFTER thread join()
+ 20240815_154822 pyts3_queue.get():5 oclock
+ 20240815_154841 AFTER thread start()
+ 20240815_154841 starting run_and_wait_thread_proc
+ 20240815_154843 AFTER thread join()
+ 20240815_154843 pyts3_queue.get():off right
+ 20240815_154843 AFTER thread start()
+ 20240815_154843 starting run_and_wait_thread_proc
+ 20240815_154844 AFTER thread join()
+ 20240815_154844 pyts3_queue.get():violet
+ 20240815_154845 AFTER thread start()
+ 20240815_154845 starting run_and_wait_thread_proc
+ 20240815_154846 AFTER thread join()
+ 20240815_154846 pyts3_queue.get():7 oclock
+ 20240815_155532 AFTER thread start()
+ 20240815_155532 starting run_and_wait_thread_proc
+ 20240815_155534 AFTER thread join()
+ 20240815_155534 pyts3_queue.get():0.0y
+ 20240815_155541 starting run_and_wait_thread_proc
+ 20240815_155541 AFTER thread start()
+ 20240815_155649 AFTER thread join()
+ 20240815_155704 pyts3_queue.get():off bottom
+ 20240815_155704 AFTER thread start()
+ 20240815_155704 starting run_and_wait_thread_proc
+ 20240815_155705 AFTER thread join()
+ 20240815_155705 pyts3_queue.get():red
+ 20240815_155705 AFTER thread start()
+ 20240815_155705 starting run_and_wait_thread_proc
+ 20240815_155706 AFTER thread join()
+ 20240815_155706 pyts3_queue.get():11 oclock
+ 20240815_155727 AFTER thread start()
+ 20240815_155727 starting run_and_wait_thread_proc

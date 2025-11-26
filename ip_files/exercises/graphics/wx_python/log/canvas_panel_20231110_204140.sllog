@@ -1,0 +1,1009 @@
+ 20231110_204140 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204140_225 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204140_226 decpl = True
+ 20231110_204140_227 stdouthasts = True
+ 20231110_204140_227 list_props = True
+ 20231110_204140_227 prop_change = True
+ 20231110_204140_228 trace_flags = True
+ 20231110_204140_228 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_204140.sllog
+ 20231110_204140_263 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204140_263 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204140_263 decpl = True
+ 20231110_204140_263 stdouthasts = True
+ 20231110_204140_263 list_props = True
+ 20231110_204140_263 prop_change = True
+ 20231110_204140_263 trace_flags = True
+ 20231110_204140_263 
+OnPaint
+ 20231110_204140_263 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204140_263 DrawRect: (50, 100),  (200, 200)
+ 20231110_204140_278 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204140_278 DrawRect: (150, 150),  (300, 300)
+ 20231110_204147_153 
+OnPaint
+ 20231110_204147_153 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_153 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204147_153 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_153 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204147_178 
+OnPaint
+ 20231110_204147_180 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_180 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204147_181 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_182 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204147_186 
+OnPaint
+ 20231110_204147_186 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_186 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204147_186 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_186 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204147_201 
+OnPaint
+ 20231110_204147_201 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_201 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204147_201 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_201 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204147_217 
+OnPaint
+ 20231110_204147_217 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_217 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204147_217 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_217 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204147_232 
+OnPaint
+ 20231110_204147_232 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_232 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204147_232 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_232 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204147_248 
+OnPaint
+ 20231110_204147_248 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_248 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204147_248 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_248 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204147_264 
+OnPaint
+ 20231110_204147_264 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_264 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204147_264 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_264 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204147_279 
+OnPaint
+ 20231110_204147_279 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_279 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204147_279 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_279 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204147_295 
+OnPaint
+ 20231110_204147_295 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_295 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204147_295 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_295 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204147_310 
+OnPaint
+ 20231110_204147_310 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_310 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204147_310 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_310 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204147_326 
+OnPaint
+ 20231110_204147_326 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_326 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204147_326 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_326 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204147_326 
+OnPaint
+ 20231110_204147_326 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_326 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204147_326 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_342 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204147_342 
+OnPaint
+ 20231110_204147_342 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_342 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204147_342 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_342 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204147_357 
+OnPaint
+ 20231110_204147_357 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_357 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204147_357 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_357 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204147_357 
+OnPaint
+ 20231110_204147_357 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_373 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204147_373 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_373 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204147_373 
+OnPaint
+ 20231110_204147_373 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_373 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204147_373 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_373 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204147_389 
+OnPaint
+ 20231110_204147_389 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_389 DrawRect: (50, 100),  (3350, 1900)
+ 20231110_204147_389 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_389 DrawRect: (150, 150),  (3450, 2850)
+ 20231110_204147_404 
+OnPaint
+ 20231110_204147_404 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_404 DrawRect: (50, 100),  (3350, 1900)
+ 20231110_204147_404 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_404 DrawRect: (150, 150),  (3450, 2850)
+ 20231110_204147_404 
+OnPaint
+ 20231110_204147_404 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_420 DrawRect: (50, 100),  (3350, 1900)
+ 20231110_204147_420 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_420 DrawRect: (150, 150),  (3450, 2850)
+ 20231110_204147_420 
+OnPaint
+ 20231110_204147_420 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_420 DrawRect: (50, 100),  (3500, 1900)
+ 20231110_204147_435 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_435 DrawRect: (150, 150),  (3600, 2850)
+ 20231110_204147_435 
+OnPaint
+ 20231110_204147_435 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_435 DrawRect: (50, 100),  (3500, 1900)
+ 20231110_204147_435 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_435 DrawRect: (150, 150),  (3600, 2850)
+ 20231110_204147_451 
+OnPaint
+ 20231110_204147_451 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_451 DrawRect: (50, 100),  (3650, 1900)
+ 20231110_204147_451 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_451 DrawRect: (150, 150),  (3750, 2850)
+ 20231110_204147_467 
+OnPaint
+ 20231110_204147_467 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_467 DrawRect: (50, 100),  (3650, 1900)
+ 20231110_204147_467 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_467 DrawRect: (150, 150),  (3750, 2850)
+ 20231110_204147_467 
+OnPaint
+ 20231110_204147_467 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_467 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204147_467 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_467 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204147_482 
+OnPaint
+ 20231110_204147_482 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_482 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204147_482 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_482 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204147_498 
+OnPaint
+ 20231110_204147_498 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_498 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204147_498 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_498 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204147_514 
+OnPaint
+ 20231110_204147_514 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_514 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204147_514 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_514 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204147_529 
+OnPaint
+ 20231110_204147_529 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_529 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204147_529 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_529 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204147_529 
+OnPaint
+ 20231110_204147_529 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_529 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204147_529 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_529 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204147_545 
+OnPaint
+ 20231110_204147_545 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_545 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204147_545 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_545 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204147_545 
+OnPaint
+ 20231110_204147_560 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_560 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204147_560 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_560 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204147_560 
+OnPaint
+ 20231110_204147_560 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_560 DrawRect: (50, 100),  (3950, 1900)
+ 20231110_204147_560 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_576 DrawRect: (150, 150),  (4050, 2850)
+ 20231110_204147_576 
+OnPaint
+ 20231110_204147_592 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_592 DrawRect: (50, 100),  (3950, 1900)
+ 20231110_204147_592 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_592 DrawRect: (150, 150),  (4050, 2850)
+ 20231110_204147_592 
+OnPaint
+ 20231110_204147_592 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_592 DrawRect: (50, 100),  (3950, 1900)
+ 20231110_204147_592 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_592 DrawRect: (150, 150),  (4050, 2850)
+ 20231110_204147_607 
+OnPaint
+ 20231110_204147_607 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_607 DrawRect: (50, 100),  (3950, 1900)
+ 20231110_204147_607 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_607 DrawRect: (150, 150),  (4050, 2850)
+ 20231110_204147_607 
+OnPaint
+ 20231110_204147_607 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_623 DrawRect: (50, 100),  (3950, 1900)
+ 20231110_204147_623 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_623 DrawRect: (150, 150),  (4050, 2850)
+ 20231110_204147_623 
+OnPaint
+ 20231110_204147_623 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_623 DrawRect: (50, 100),  (3950, 1900)
+ 20231110_204147_623 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_639 DrawRect: (150, 150),  (4050, 2850)
+ 20231110_204147_639 
+OnPaint
+ 20231110_204147_639 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_639 DrawRect: (50, 100),  (3950, 1900)
+ 20231110_204147_639 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_639 DrawRect: (150, 150),  (4050, 2850)
+ 20231110_204147_654 
+OnPaint
+ 20231110_204147_654 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_654 DrawRect: (50, 100),  (3950, 1900)
+ 20231110_204147_654 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_654 DrawRect: (150, 150),  (4050, 2850)
+ 20231110_204147_670 
+OnPaint
+ 20231110_204147_670 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_670 DrawRect: (50, 100),  (3950, 1900)
+ 20231110_204147_670 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_670 DrawRect: (150, 150),  (4050, 2850)
+ 20231110_204147_670 
+OnPaint
+ 20231110_204147_670 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_670 DrawRect: (50, 100),  (4100, 1900)
+ 20231110_204147_670 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_670 DrawRect: (150, 150),  (4200, 2850)
+ 20231110_204147_685 
+OnPaint
+ 20231110_204147_685 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_685 DrawRect: (50, 100),  (4100, 1900)
+ 20231110_204147_685 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_685 DrawRect: (150, 150),  (4200, 2850)
+ 20231110_204147_701 
+OnPaint
+ 20231110_204147_701 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_701 DrawRect: (50, 100),  (4100, 1900)
+ 20231110_204147_701 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_701 DrawRect: (150, 150),  (4200, 2850)
+ 20231110_204147_717 
+OnPaint
+ 20231110_204147_717 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_717 DrawRect: (50, 100),  (4100, 1900)
+ 20231110_204147_717 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_717 DrawRect: (150, 150),  (4200, 2850)
+ 20231110_204147_732 
+OnPaint
+ 20231110_204147_732 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_732 DrawRect: (50, 100),  (4250, 1900)
+ 20231110_204147_732 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_732 DrawRect: (150, 150),  (4350, 2850)
+ 20231110_204147_732 
+OnPaint
+ 20231110_204147_732 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_732 DrawRect: (50, 100),  (4250, 1900)
+ 20231110_204147_732 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_732 DrawRect: (150, 150),  (4350, 2850)
+ 20231110_204147_751 
+OnPaint
+ 20231110_204147_753 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_755 DrawRect: (50, 100),  (4250, 1900)
+ 20231110_204147_755 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_756 DrawRect: (150, 150),  (4350, 2850)
+ 20231110_204147_761 
+OnPaint
+ 20231110_204147_761 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_761 DrawRect: (50, 100),  (4400, 1900)
+ 20231110_204147_761 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_761 DrawRect: (150, 150),  (4500, 2850)
+ 20231110_204147_776 
+OnPaint
+ 20231110_204147_776 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_776 DrawRect: (50, 100),  (4400, 1900)
+ 20231110_204147_776 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_776 DrawRect: (150, 150),  (4500, 2850)
+ 20231110_204147_792 
+OnPaint
+ 20231110_204147_792 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_792 DrawRect: (50, 100),  (4400, 1900)
+ 20231110_204147_792 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_792 DrawRect: (150, 150),  (4500, 2850)
+ 20231110_204147_792 
+OnPaint
+ 20231110_204147_792 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_808 DrawRect: (50, 100),  (4400, 1900)
+ 20231110_204147_808 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_808 DrawRect: (150, 150),  (4500, 2850)
+ 20231110_204147_808 
+OnPaint
+ 20231110_204147_808 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_808 DrawRect: (50, 100),  (4400, 1900)
+ 20231110_204147_808 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_808 DrawRect: (150, 150),  (4500, 2850)
+ 20231110_204147_823 
+OnPaint
+ 20231110_204147_823 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_823 DrawRect: (50, 100),  (4550, 1900)
+ 20231110_204147_823 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_823 DrawRect: (150, 150),  (4650, 2850)
+ 20231110_204147_823 
+OnPaint
+ 20231110_204147_823 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_839 DrawRect: (50, 100),  (4550, 1900)
+ 20231110_204147_839 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_839 DrawRect: (150, 150),  (4650, 2850)
+ 20231110_204147_839 
+OnPaint
+ 20231110_204147_854 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_854 DrawRect: (50, 100),  (4550, 1900)
+ 20231110_204147_854 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_854 DrawRect: (150, 150),  (4650, 2850)
+ 20231110_204147_854 
+OnPaint
+ 20231110_204147_854 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_854 DrawRect: (50, 100),  (4550, 1900)
+ 20231110_204147_854 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_870 DrawRect: (150, 150),  (4650, 2850)
+ 20231110_204147_870 
+OnPaint
+ 20231110_204147_870 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_870 DrawRect: (50, 100),  (4550, 1900)
+ 20231110_204147_870 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_870 DrawRect: (150, 150),  (4650, 2850)
+ 20231110_204147_870 
+OnPaint
+ 20231110_204147_886 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_917 DrawRect: (50, 100),  (4550, 1900)
+ 20231110_204147_933 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_964 DrawRect: (150, 150),  (4650, 2850)
+ 20231110_204147_964 
+OnPaint
+ 20231110_204147_964 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_979 DrawRect: (50, 100),  (4850, 1900)
+ 20231110_204147_979 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_979 DrawRect: (150, 150),  (4950, 2850)
+ 20231110_204147_979 
+OnPaint
+ 20231110_204147_995 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204147_995 DrawRect: (50, 100),  (5000, 1900)
+ 20231110_204147_995 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204147_995 DrawRect: (150, 150),  (5100, 2850)
+ 20231110_204147_995 
+OnPaint
+ 20231110_204147_995 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_011 DrawRect: (50, 100),  (5000, 1900)
+ 20231110_204148_011 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_011 DrawRect: (150, 150),  (5100, 2850)
+ 20231110_204148_026 
+OnPaint
+ 20231110_204148_026 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_026 DrawRect: (50, 100),  (5000, 1900)
+ 20231110_204148_026 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_026 DrawRect: (150, 150),  (5100, 2850)
+ 20231110_204148_026 
+OnPaint
+ 20231110_204148_026 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_026 DrawRect: (50, 100),  (5150, 1900)
+ 20231110_204148_042 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_042 DrawRect: (150, 150),  (5250, 2850)
+ 20231110_204148_042 
+OnPaint
+ 20231110_204148_058 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_058 DrawRect: (50, 100),  (5150, 1900)
+ 20231110_204148_058 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_058 DrawRect: (150, 150),  (5250, 2850)
+ 20231110_204148_058 
+OnPaint
+ 20231110_204148_058 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_058 DrawRect: (50, 100),  (5300, 1900)
+ 20231110_204148_073 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_073 DrawRect: (150, 150),  (5400, 2850)
+ 20231110_204148_073 
+OnPaint
+ 20231110_204148_089 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_089 DrawRect: (50, 100),  (5300, 1900)
+ 20231110_204148_089 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_089 DrawRect: (150, 150),  (5400, 2850)
+ 20231110_204148_089 
+OnPaint
+ 20231110_204148_089 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_089 DrawRect: (50, 100),  (5450, 1900)
+ 20231110_204148_089 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_089 DrawRect: (150, 150),  (5550, 2850)
+ 20231110_204148_104 
+OnPaint
+ 20231110_204148_104 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_104 DrawRect: (50, 100),  (5450, 1900)
+ 20231110_204148_104 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_104 DrawRect: (150, 150),  (5550, 2850)
+ 20231110_204148_120 
+OnPaint
+ 20231110_204148_120 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_120 DrawRect: (50, 100),  (5600, 1900)
+ 20231110_204148_120 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_120 DrawRect: (150, 150),  (5700, 2850)
+ 20231110_204148_136 
+OnPaint
+ 20231110_204148_136 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_136 DrawRect: (50, 100),  (5600, 1900)
+ 20231110_204148_136 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_136 DrawRect: (150, 150),  (5700, 2850)
+ 20231110_204148_151 
+OnPaint
+ 20231110_204148_151 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_151 DrawRect: (50, 100),  (5750, 1900)
+ 20231110_204148_151 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_151 DrawRect: (150, 150),  (5850, 2850)
+ 20231110_204148_167 
+OnPaint
+ 20231110_204148_167 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_167 DrawRect: (50, 100),  (5750, 1900)
+ 20231110_204148_167 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_167 DrawRect: (150, 150),  (5850, 2850)
+ 20231110_204148_183 
+OnPaint
+ 20231110_204148_183 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_183 DrawRect: (50, 100),  (5900, 1900)
+ 20231110_204148_183 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_183 DrawRect: (150, 150),  (6000, 2850)
+ 20231110_204148_198 
+OnPaint
+ 20231110_204148_198 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_198 DrawRect: (50, 100),  (5900, 1900)
+ 20231110_204148_198 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_198 DrawRect: (150, 150),  (6000, 2850)
+ 20231110_204148_214 
+OnPaint
+ 20231110_204148_214 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_214 DrawRect: (50, 100),  (6050, 1900)
+ 20231110_204148_214 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_214 DrawRect: (150, 150),  (6150, 2850)
+ 20231110_204148_229 
+OnPaint
+ 20231110_204148_229 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_229 DrawRect: (50, 100),  (6050, 1900)
+ 20231110_204148_229 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_229 DrawRect: (150, 150),  (6150, 2850)
+ 20231110_204148_245 
+OnPaint
+ 20231110_204148_245 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_245 DrawRect: (50, 100),  (6200, 1900)
+ 20231110_204148_245 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_245 DrawRect: (150, 150),  (6300, 2850)
+ 20231110_204148_261 
+OnPaint
+ 20231110_204148_261 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_261 DrawRect: (50, 100),  (6200, 1900)
+ 20231110_204148_261 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_261 DrawRect: (150, 150),  (6300, 2850)
+ 20231110_204148_276 
+OnPaint
+ 20231110_204148_276 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_276 DrawRect: (50, 100),  (6350, 1900)
+ 20231110_204148_276 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_276 DrawRect: (150, 150),  (6450, 2850)
+ 20231110_204148_276 
+OnPaint
+ 20231110_204148_292 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_292 DrawRect: (50, 100),  (6350, 1900)
+ 20231110_204148_292 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_292 DrawRect: (150, 150),  (6450, 2850)
+ 20231110_204148_292 
+OnPaint
+ 20231110_204148_292 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_292 DrawRect: (50, 100),  (6350, 1900)
+ 20231110_204148_292 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_292 DrawRect: (150, 150),  (6450, 2850)
+ 20231110_204148_308 
+OnPaint
+ 20231110_204148_308 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_308 DrawRect: (50, 100),  (6350, 1900)
+ 20231110_204148_308 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_308 DrawRect: (150, 150),  (6450, 2850)
+ 20231110_204148_323 
+OnPaint
+ 20231110_204148_323 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_323 DrawRect: (50, 100),  (6350, 1900)
+ 20231110_204148_323 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_323 DrawRect: (150, 150),  (6450, 2850)
+ 20231110_204148_339 
+OnPaint
+ 20231110_204148_339 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_339 DrawRect: (50, 100),  (6500, 1900)
+ 20231110_204148_339 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_339 DrawRect: (150, 150),  (6600, 2850)
+ 20231110_204148_339 
+OnPaint
+ 20231110_204148_339 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_339 DrawRect: (50, 100),  (6500, 1900)
+ 20231110_204148_339 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_339 DrawRect: (150, 150),  (6600, 2850)
+ 20231110_204148_354 
+OnPaint
+ 20231110_204148_354 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_354 DrawRect: (50, 100),  (6500, 1900)
+ 20231110_204148_354 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_354 DrawRect: (150, 150),  (6600, 2850)
+ 20231110_204148_370 
+OnPaint
+ 20231110_204148_370 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_370 DrawRect: (50, 100),  (6650, 1900)
+ 20231110_204148_370 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_370 DrawRect: (150, 150),  (6750, 2850)
+ 20231110_204148_386 
+OnPaint
+ 20231110_204148_386 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_386 DrawRect: (50, 100),  (6650, 1900)
+ 20231110_204148_386 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_386 DrawRect: (150, 150),  (6750, 2850)
+ 20231110_204148_401 
+OnPaint
+ 20231110_204148_401 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_401 DrawRect: (50, 100),  (6800, 1900)
+ 20231110_204148_401 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_401 DrawRect: (150, 150),  (6900, 2850)
+ 20231110_204148_417 
+OnPaint
+ 20231110_204148_417 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_417 DrawRect: (50, 100),  (6800, 1900)
+ 20231110_204148_417 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_417 DrawRect: (150, 150),  (6900, 2850)
+ 20231110_204148_432 
+OnPaint
+ 20231110_204148_432 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_432 DrawRect: (50, 100),  (6950, 1900)
+ 20231110_204148_432 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_432 DrawRect: (150, 150),  (7050, 2850)
+ 20231110_204148_432 
+OnPaint
+ 20231110_204148_432 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_432 DrawRect: (50, 100),  (6950, 1900)
+ 20231110_204148_432 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_432 DrawRect: (150, 150),  (7050, 2850)
+ 20231110_204148_448 
+OnPaint
+ 20231110_204148_448 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_448 DrawRect: (50, 100),  (6950, 1900)
+ 20231110_204148_448 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_448 DrawRect: (150, 150),  (7050, 2850)
+ 20231110_204148_448 
+OnPaint
+ 20231110_204148_448 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_464 DrawRect: (50, 100),  (6950, 1900)
+ 20231110_204148_464 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_464 DrawRect: (150, 150),  (7050, 2850)
+ 20231110_204148_464 
+OnPaint
+ 20231110_204148_464 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_464 DrawRect: (50, 100),  (6950, 1900)
+ 20231110_204148_464 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_464 DrawRect: (150, 150),  (7050, 2850)
+ 20231110_204148_479 
+OnPaint
+ 20231110_204148_479 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_479 DrawRect: (50, 100),  (6950, 1900)
+ 20231110_204148_479 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_479 DrawRect: (150, 150),  (7050, 2850)
+ 20231110_204148_495 
+OnPaint
+ 20231110_204148_495 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_495 DrawRect: (50, 100),  (6950, 1900)
+ 20231110_204148_495 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_495 DrawRect: (150, 150),  (7050, 2850)
+ 20231110_204148_511 
+OnPaint
+ 20231110_204148_511 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_511 DrawRect: (50, 100),  (7100, 1900)
+ 20231110_204148_511 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_511 DrawRect: (150, 150),  (7200, 2850)
+ 20231110_204148_511 
+OnPaint
+ 20231110_204148_511 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_511 DrawRect: (50, 100),  (7100, 1900)
+ 20231110_204148_511 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_511 DrawRect: (150, 150),  (7200, 2850)
+ 20231110_204148_526 
+OnPaint
+ 20231110_204148_526 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_526 DrawRect: (50, 100),  (7100, 1900)
+ 20231110_204148_526 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_526 DrawRect: (150, 150),  (7200, 2850)
+ 20231110_204148_542 
+OnPaint
+ 20231110_204148_542 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_542 DrawRect: (50, 100),  (7100, 1900)
+ 20231110_204148_542 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_542 DrawRect: (150, 150),  (7200, 2850)
+ 20231110_204148_557 
+OnPaint
+ 20231110_204148_557 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_557 DrawRect: (50, 100),  (7100, 1900)
+ 20231110_204148_557 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_557 DrawRect: (150, 150),  (7200, 2850)
+ 20231110_204148_573 
+OnPaint
+ 20231110_204148_573 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_573 DrawRect: (50, 100),  (7100, 1900)
+ 20231110_204148_573 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_573 DrawRect: (150, 150),  (7200, 2850)
+ 20231110_204148_573 
+OnPaint
+ 20231110_204148_573 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_573 DrawRect: (50, 100),  (7100, 1900)
+ 20231110_204148_573 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_573 DrawRect: (150, 150),  (7200, 2850)
+ 20231110_204148_589 
+OnPaint
+ 20231110_204148_589 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_589 DrawRect: (50, 100),  (7250, 1900)
+ 20231110_204148_589 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_589 DrawRect: (150, 150),  (7350, 2850)
+ 20231110_204148_604 
+OnPaint
+ 20231110_204148_604 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_604 DrawRect: (50, 100),  (7250, 1900)
+ 20231110_204148_604 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_604 DrawRect: (150, 150),  (7350, 2850)
+ 20231110_204148_620 
+OnPaint
+ 20231110_204148_620 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_620 DrawRect: (50, 100),  (7250, 1900)
+ 20231110_204148_620 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_620 DrawRect: (150, 150),  (7350, 2850)
+ 20231110_204148_636 
+OnPaint
+ 20231110_204148_636 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_636 DrawRect: (50, 100),  (7250, 1900)
+ 20231110_204148_636 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_636 DrawRect: (150, 150),  (7350, 2850)
+ 20231110_204148_651 
+OnPaint
+ 20231110_204148_651 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_651 DrawRect: (50, 100),  (7250, 1900)
+ 20231110_204148_651 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_651 DrawRect: (150, 150),  (7350, 2850)
+ 20231110_204148_667 
+OnPaint
+ 20231110_204148_667 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_667 DrawRect: (50, 100),  (7400, 1900)
+ 20231110_204148_667 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_667 DrawRect: (150, 150),  (7500, 2850)
+ 20231110_204148_667 
+OnPaint
+ 20231110_204148_667 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_667 DrawRect: (50, 100),  (7400, 1900)
+ 20231110_204148_667 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_667 DrawRect: (150, 150),  (7500, 2850)
+ 20231110_204148_682 
+OnPaint
+ 20231110_204148_682 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_682 DrawRect: (50, 100),  (7550, 1900)
+ 20231110_204148_682 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_682 DrawRect: (150, 150),  (7650, 2850)
+ 20231110_204148_698 
+OnPaint
+ 20231110_204148_698 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_698 DrawRect: (50, 100),  (7550, 1900)
+ 20231110_204148_698 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_698 DrawRect: (150, 150),  (7650, 2850)
+ 20231110_204148_698 
+OnPaint
+ 20231110_204148_714 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_714 DrawRect: (50, 100),  (7550, 1900)
+ 20231110_204148_714 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_714 DrawRect: (150, 150),  (7650, 2850)
+ 20231110_204148_729 
+OnPaint
+ 20231110_204148_729 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_729 DrawRect: (50, 100),  (7550, 1900)
+ 20231110_204148_729 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_729 DrawRect: (150, 150),  (7650, 2850)
+ 20231110_204148_745 
+OnPaint
+ 20231110_204148_745 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_745 DrawRect: (50, 100),  (7550, 1900)
+ 20231110_204148_745 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_745 DrawRect: (150, 150),  (7650, 2850)
+ 20231110_204148_761 
+OnPaint
+ 20231110_204148_761 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_761 DrawRect: (50, 100),  (7550, 1900)
+ 20231110_204148_761 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_761 DrawRect: (150, 150),  (7650, 2850)
+ 20231110_204148_761 
+OnPaint
+ 20231110_204148_776 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_776 DrawRect: (50, 100),  (7550, 1900)
+ 20231110_204148_776 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_776 DrawRect: (150, 150),  (7650, 2850)
+ 20231110_204148_776 
+OnPaint
+ 20231110_204148_776 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_776 DrawRect: (50, 100),  (7550, 1900)
+ 20231110_204148_776 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_776 DrawRect: (150, 150),  (7650, 2850)
+ 20231110_204148_792 
+OnPaint
+ 20231110_204148_792 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_792 DrawRect: (50, 100),  (7550, 1900)
+ 20231110_204148_792 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_792 DrawRect: (150, 150),  (7650, 2850)
+ 20231110_204148_807 
+OnPaint
+ 20231110_204148_807 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_807 DrawRect: (50, 100),  (7700, 1900)
+ 20231110_204148_807 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_807 DrawRect: (150, 150),  (7800, 2850)
+ 20231110_204148_823 
+OnPaint
+ 20231110_204148_823 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_823 DrawRect: (50, 100),  (7700, 1900)
+ 20231110_204148_823 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_823 DrawRect: (150, 150),  (7800, 2850)
+ 20231110_204148_823 
+OnPaint
+ 20231110_204148_839 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_839 DrawRect: (50, 100),  (7700, 1900)
+ 20231110_204148_839 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_839 DrawRect: (150, 150),  (7800, 2850)
+ 20231110_204148_839 
+OnPaint
+ 20231110_204148_839 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_839 DrawRect: (50, 100),  (7700, 1900)
+ 20231110_204148_839 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_839 DrawRect: (150, 150),  (7800, 2850)
+ 20231110_204148_839 
+OnPaint
+ 20231110_204148_854 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_854 DrawRect: (50, 100),  (7700, 1900)
+ 20231110_204148_854 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_854 DrawRect: (150, 150),  (7800, 2850)
+ 20231110_204148_870 
+OnPaint
+ 20231110_204148_870 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_870 DrawRect: (50, 100),  (7700, 1900)
+ 20231110_204148_870 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_870 DrawRect: (150, 150),  (7800, 2850)
+ 20231110_204148_870 
+OnPaint
+ 20231110_204148_870 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_870 DrawRect: (50, 100),  (7700, 1900)
+ 20231110_204148_885 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_885 DrawRect: (150, 150),  (7800, 2850)
+ 20231110_204148_885 
+OnPaint
+ 20231110_204148_885 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_885 DrawRect: (50, 100),  (7700, 1900)
+ 20231110_204148_885 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_885 DrawRect: (150, 150),  (7800, 2850)
+ 20231110_204148_901 
+OnPaint
+ 20231110_204148_901 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_901 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204148_901 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_901 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204148_901 
+OnPaint
+ 20231110_204148_901 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_917 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204148_917 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_917 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204148_917 
+OnPaint
+ 20231110_204148_917 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_917 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204148_917 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_932 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204148_932 
+OnPaint
+ 20231110_204148_932 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_932 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204148_932 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_932 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204148_948 
+OnPaint
+ 20231110_204148_948 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_948 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204148_948 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_948 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204148_964 
+OnPaint
+ 20231110_204148_964 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_964 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204148_964 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_964 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204148_964 
+OnPaint
+ 20231110_204148_964 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_979 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204148_979 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_979 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204148_995 
+OnPaint
+ 20231110_204148_995 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_995 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204148_995 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204148_995 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204148_995 
+OnPaint
+ 20231110_204148_995 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204148_995 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204148_995 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204149_010 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204149_057 
+OnPaint
+ 20231110_204149_057 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204149_057 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204149_057 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204149_057 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204149_073 
+OnPaint
+ 20231110_204149_073 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204149_073 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204149_073 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204149_073 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204149_089 
+OnPaint
+ 20231110_204149_089 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204149_089 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204149_089 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204149_089 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204149_135 
+OnPaint
+ 20231110_204149_135 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204149_135 DrawRect: (50, 100),  (7850, 1900)
+ 20231110_204149_135 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204149_135 DrawRect: (150, 150),  (7950, 2850)
+ 20231110_204150_812 
+OnPaint
+ 20231110_204150_812 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_828 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204150_828 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_828 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204150_828 
+OnPaint
+ 20231110_204150_828 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_836 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204150_836 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_838 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204150_838 
+OnPaint
+ 20231110_204150_838 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_838 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204150_838 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_838 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204150_853 
+OnPaint
+ 20231110_204150_853 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_853 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204150_853 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_853 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204150_869 
+OnPaint
+ 20231110_204150_869 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_869 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204150_869 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_869 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204150_885 
+OnPaint
+ 20231110_204150_885 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_885 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204150_885 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_885 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204150_900 
+OnPaint
+ 20231110_204150_900 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_900 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204150_900 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_900 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204150_916 
+OnPaint
+ 20231110_204150_916 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_916 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204150_916 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_916 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204150_931 
+OnPaint
+ 20231110_204150_931 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_931 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204150_931 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_931 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204150_931 
+OnPaint
+ 20231110_204150_931 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_931 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204150_931 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_931 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204150_947 
+OnPaint
+ 20231110_204150_947 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_947 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204150_947 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_947 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204150_963 
+OnPaint
+ 20231110_204150_963 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_963 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204150_963 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_963 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204150_978 
+OnPaint
+ 20231110_204150_978 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_978 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204150_978 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_978 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204150_994 
+OnPaint
+ 20231110_204150_994 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204150_994 DrawRect: (50, 100),  (3350, 1900)
+ 20231110_204150_994 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204150_994 DrawRect: (150, 150),  (3450, 2850)
+ 20231110_204151_010 
+OnPaint
+ 20231110_204151_010 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204151_010 DrawRect: (50, 100),  (3350, 1900)
+ 20231110_204151_010 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204151_010 DrawRect: (150, 150),  (3450, 2850)
+ 20231110_204151_025 
+OnPaint
+ 20231110_204151_025 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204151_025 DrawRect: (50, 100),  (3500, 1900)
+ 20231110_204151_025 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204151_025 DrawRect: (150, 150),  (3600, 2850)
+ 20231110_204151_041 
+OnPaint
+ 20231110_204151_041 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204151_041 DrawRect: (50, 100),  (3650, 1900)
+ 20231110_204151_041 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204151_041 DrawRect: (150, 150),  (3750, 2850)
+ 20231110_204151_056 
+OnPaint
+ 20231110_204151_056 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204151_056 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204151_056 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204151_056 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204151_072 
+OnPaint
+ 20231110_204151_072 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204151_072 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204151_072 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204151_072 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204151_088 
+OnPaint
+ 20231110_204151_088 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204151_088 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204151_088 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204151_088 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204151_103 
+OnPaint
+ 20231110_204151_103 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204151_103 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204151_103 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204151_103 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204156_156 No differences
+ 20231110_204156_162 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties  20231110_204156
+ 20231110_204200_383 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204200_406 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204200_406 decpl = True
+ 20231110_204200_440 stdouthasts = True
+ 20231110_204200_440 list_props = True
+ 20231110_204200_456 prop_change = True
+ 20231110_204200_456 trace_flags = True
+ 20231110_204200_474 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_204140.sllog

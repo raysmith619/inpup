@@ -1,0 +1,732 @@
+ 20240916_111828_677 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_a.properties
+ 20240916_111828_701 decpl = True
+ 20240916_111828_709 aud_create = True
+ 20240916_111828_717 display_cell = True
+ 20240916_111828_731 get_items = True
+ 20240916_111828_740 list_props = True
+ 20240916_111828_751 motion = True
+ 20240916_111828_761 mouse_cell = True
+ 20240916_111828_769 play_tone = True
+ 20240916_111828_780 pos_tracking = True
+ 20240916_111828_795 prop_change = True
+ 20240916_111828_814 show_canvas_items = True
+ 20240916_111828_859 slow_key_str = True
+ 20240916_111828_871 sound = True
+ 20240916_111828_881 sound_queue = True
+ 20240916_111828_892 sound_volume = True
+ 20240916_111828_901 speech = True
+ 20240916_111828_909 stdouthasts = True
+ 20240916_111828_920 win_items = True
+ 20240916_111828_932 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_a_20240916_111828.sllog
+ 20240916_111832 braille_title: File: square_loop_braille_a.py  Date: 2024-09-16 11:18  User: Owner
+ 20240916_111832 sc_sounc_proc_thread running
+ 20240916_111833 canvas width: 804
+ 20240916_111833 canvas height: 804
+ 20240916_111833 sc_sounc_proc_thread running
+ 20240916_111833 File: square_loop_braille_a.py  Date: 2024-09-16 11:18  User: Owner
+ 20240916_111833 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240916_111833 draw_cells
+ 20240916_111833 x_min:-400.0 y_min: -400.0
+ 20240916_111833 Lower left: min_x:-40 min_y:-208
+ 20240916_111833 Upper Right: max_x:240 max_y:16
+ 20240916_111833 94 cells
+ 20240916_111833 green at row 12 column 20
+ 20240916_111834 
+,,,ggrrrrrrrroo
+,,gggrrrrrrrooo
+,,gggrrrrrrrooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggggyyyyyyyyy
+,,,gggyyyyyyyyy
+
+ 20240916_111847 3
+ 20240916_111847 green at row 13 column 21
+ 20240916_111848 3
+ 20240916_111848 red at row 14 column 22
+ 20240916_111902 on_alt_m
+ 20240916_111910 select: ix_min:19 iy_min:11 ix_max:21 iy_max:13
+ 20240916_111914 on_alt_m
+ 20240916_111916 select: ix_min:19 iy_min:11 ix_max:21 iy_max:13
+ 20240916_111916 view select: MagI[1]: select: ix_min:19 iy_min:11 ix_max:21 iy_max:13
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+ 20240916_111916 create_magnification_window: xmin:-20.0 ymin:-48.0 xmax:40.0 ymax:48.0 nrows:25 ncols:40
+ 20240916_111917 canvas width: 804
+ 20240916_111917 canvas height: 804
+ 20240916_111917 sc_sounc_proc_thread running
+ 20240916_111917 AudioDrawWindow
+ 20240916_111917 Magnification of region minimum x: -20, minimum y: -48, maximum x: 40, maximum y: 48
+ 20240916_111917 
+AudioDrawWindow() mag_info:
+MagI[2]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-20.0 y_min:-48.0 x_max:40.0 y_max:48.0 ncols:40 nrows:25
+ parent level: 1
+    0 children
+
+ 20240916_111917 draw_cells
+ 20240916_111917 x_min:-400.0 y_min: -400.0
+ 20240916_111917 Lower left: min_x:-400 min_y:-368
+ 20240916_111917 Upper Right: max_x:400 max_y:144
+ 20240916_111917 619 cells
+ 20240916_111920 green at row 9 column 4
+ 20240916_111920 stop_scanning
+ 20240916_111920 Magnification has 619 cells
+ 20240916_111944 Right
+ 20240916_111944 20 greens
+ 20240916_111945 green at row 9 column 24
+ 20240916_111948 6
+ 20240916_111948 red at row 9 column 25
+ 20240916_111951 on_alt_m
+ 20240916_111953 select: ix_min:3 iy_min:8 ix_max:24 iy_max:8
+ 20240916_111953 view select: MagI[2]: self.description select: ix_min:3 iy_min:8 ix_max:24 iy_max:8
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-20.0 y_min:-48.0 x_max:40.0 y_max:48.0 ncols:40 nrows:25
+ parent level: 1
+    0 children
+ 20240916_111953 create_magnification_window: xmin:-15.5 ymin:-17.28 xmax:17.5 ymax:-13.439999999999998 nrows:25 ncols:40
+ 20240916_111953 canvas width: 804
+ 20240916_111953 canvas height: 804
+ 20240916_111953 sc_sounc_proc_thread running
+ 20240916_111953 AudioDrawWindow
+ 20240916_111953 Magnification of region minimum x: -16, minimum y: -17, maximum x: 18, maximum y: -13
+ 20240916_111953 
+AudioDrawWindow() mag_info:
+MagI[3]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-15.5 y_min:-17.28 x_max:17.5 y_max:-13.439999999999998 ncols:40 nrows:25
+ parent level: 2
+    0 children
+
+ 20240916_111954 draw_cells
+ 20240916_111954 x_min:-400.0 y_min: -400.0
+ 20240916_111954 Lower left: min_x:-400 min_y:-368
+ 20240916_111954 Upper Right: max_x:400 max_y:368
+ 20240916_111954 930 cells
+ 20240916_111957 green at row 2 column 6
+ 20240916_111957 stop_scanning
+ 20240916_111957 Magnification has 930 cells
+ 20240916_112049 start_scanning
+ 20240916_112049 Calculating scan_items
+ 20240916_112049 
+get_perimetr loop 1
+ 20240916_112049 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112049 
+minimize loop 1
+ 20240916_112049 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112049 our_connectors:['SurroundingSquare:(17, 11)', 'SurroundingSquare:(17, 10)']
+ 20240916_112049 expansion_space:(18, 11)
+ 20240916_112049 
+
+ 20240916_112049 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++[:]_ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112049 our_connectors:['SurroundingSquare:(29, 10)', 'SurroundingSquare:(30, 10)', 'SurroundingSquare:(31, 10)']
+ 20240916_112049 expansion_space:(31, 11)
+ 20240916_112049 
+
+ 20240916_112049 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo[:]_++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112049 our_connectors:['SurroundingSquare:(32, 17)', 'SurroundingSquare:(32, 18)', 'SurroundingSquare:(32, 19)']
+ 20240916_112050 expansion_space:(31, 19)
+ 20240916_112050 
+
+ 20240916_112050 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy[:]_++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112050 our_connectors:['SurroundingSquare:(20, 20)', 'SurroundingSquare:(19, 20)', 'SurroundingSquare:(18, 20)']
+ 20240916_112050 expansion_space:(18, 19)
+ 20240916_112050 
+
+ 20240916_112050 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++[:]_ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112050 
+get_perimetr loop 2
+ 20240916_112050 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112050 
+minimize loop 1
+ 20240916_112050 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112050 
+minimize loop 2
+ 20240916_112050 
+------------------------------------------------------------------------
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------
+------------------------------------------------------------------------
+
+ 20240916_112050 start_scan 
+ 20240916_112050 Add 10 new items at 0 with sound
+ 20240916_112050 Scanning vol_adj: 0.0
+ 20240916_112050 10 cells: time: 0.021 seconds
+ 20240916_112102 Add 10 new items at 10 with sound
+ 20240916_112102 Scanning vol_adj: 0.0
+ 20240916_112102 10 cells: time: 0.020 seconds
+ 20240916_112110 Add 10 new items at 20 with sound
+ 20240916_112110 Scanning vol_adj: 0.0
+ 20240916_112110 10 cells: time: 0.027 seconds
+ 20240916_112118 Add 10 new items at 30 with sound
+ 20240916_112118 Scanning vol_adj: 0.0
+ 20240916_112118 10 cells: time: 0.012 seconds
+ 20240916_112125 Add 10 new items at 40 with sound
+ 20240916_112125 Scanning vol_adj: 0.0
+ 20240916_112145 on_alt_s
+ 20240916_112150 t
+ 20240916_112150 2 reds to above
+ 20240916_112150 4 blanks to a green at below
+ 20240916_112201 stop_scanning
+ 20240916_112201 speech clearing
+ 20240916_112201 self.sc_cmd_queue.qsize(): 0
+ 20240916_112201 self.sc_sound_queue.qsize(): 0
+ 20240916_112201 force_clear
+ 20240916_112201 force speech clearing
+ 20240916_112201 self.sc_cmd_queue.qsize(): 0
+ 20240916_112201 self.sc_sound_queue.qsize(): 0
+ 20240916_112201 Waiting 2000 msec
+ 20240916_112203 Restarting Speaker control
+ 20240916_112203 sc_sounc_proc_thread running
+ 20240916_112219 on_alt_s
+ 20240916_112231 on_alt_s
+ 20240916_112233 start_scanning
+ 20240916_112233 Calculating scan_items
+ 20240916_112233 
+get_perimetr loop 1
+ 20240916_112233 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112233 
+minimize loop 1
+ 20240916_112233 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++::::ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112233 our_connectors:['SurroundingSquare:(17, 11)', 'SurroundingSquare:(17, 10)']
+ 20240916_112233 expansion_space:(18, 11)
+ 20240916_112233 
+
+ 20240916_112233 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++[:]_ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo::::++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112233 our_connectors:['SurroundingSquare:(29, 10)', 'SurroundingSquare:(30, 10)', 'SurroundingSquare:(31, 10)']
+ 20240916_112233 expansion_space:(31, 11)
+ 20240916_112233 
+
+ 20240916_112233 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo[:]_++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy::::++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112233 our_connectors:['SurroundingSquare:(32, 17)', 'SurroundingSquare:(32, 18)', 'SurroundingSquare:(32, 19)']
+ 20240916_112233 expansion_space:(31, 19)
+ 20240916_112233 
+
+ 20240916_112233 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++::::ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy[:]_++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112233 our_connectors:['SurroundingSquare:(20, 20)', 'SurroundingSquare:(19, 20)', 'SurroundingSquare:(18, 20)']
+ 20240916_112233 expansion_space:(18, 19)
+ 20240916_112233 
+
+ 20240916_112233 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++[:]_ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112233 
+get_perimetr loop 2
+ 20240916_112233 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112233 
+minimize loop 1
+ 20240916_112233 
+------------------------------------------------------------------------
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+----++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+------------------------------------------------------------------------
+
+ 20240916_112234 
+minimize loop 2
+ 20240916_112234 
+------------------------------------------------------------------------
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------
+----++++++++ggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooo++++++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++ggggggggggggrrrrrrrrrrrrrrrrrrrrrrrrrrrroooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++gggggggggggg::::::::::::::::::::::::::::oooooooooooooooo++++----
+----++++ggggggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++----
+----++++++++ggggggggggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy++++++++----
+--------++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------
+------------------------------------------------------------------------
+
+ 20240916_112234 start_scan 
+ 20240916_112234 Add 41 new items at 0 with sound
+ 20240916_112234 Scanning vol_adj: 0.0
+ 20240916_112234 41 cells: time: 0.017 seconds
+ 20240916_112234 divide_path: 41 items in 2 sections
+ 20240916_112234 0: row: 12 col: 20
+ 20240916_112234 1: row: 20 col: 31
+ 20240916_112234 make_combine_wave: 21 items
+ 20240916_112234 make_combine_wave: 20 items
+ 20240916_112315 on_alt_m
+ 20240916_112321 on_alt_s
+ 20240916_112322 stop_scanning
+ 20240916_112322 speech clearing
+ 20240916_112323 self.sc_cmd_queue.qsize(): 0
+ 20240916_112323 self.sc_sound_queue.qsize(): 0
+ 20240916_112323 force_clear
+ 20240916_112323 force speech clearing
+ 20240916_112323 self.sc_cmd_queue.qsize(): 0
+ 20240916_112323 self.sc_sound_queue.qsize(): 0
+ 20240916_112323 Waiting 2000 msec
+ 20240916_112323 sc_sound_proc_thread returning
+ 20240916_112325 Restarting Speaker control
+ 20240916_112325 sc_sounc_proc_thread running
+ 20240916_112419 on_alt_f
+ 20240916_112425 z
+ 20240916_112425 draw_cells
+ 20240916_112425 x_min:-400.0 y_min: -400.0
+ 20240916_112425 Lower left: min_x:-400 min_y:-368
+ 20240916_112425 Upper Right: max_x:400 max_y:368
+ 20240916_112425 0 cells
+ 20240916_112432 8
+ 20240916_112432 No Drawing at row 1 column 1
+ 20240916_112437 6
+ 20240916_112437 No Drawing at row 1 column 2
+ 20240916_112442 d
+ 20240916_112445 2
+ 20240916_112445 No Drawing at row 2 column 2
+ 20240916_112446 2
+ 20240916_112446 up 1 at row 3 column 2
+ 20240916_112448 c
+ 20240916_112448 key_color_change: 
+ 20240916_112448 cmd: color_change_cmd
+ 20240916_112448 multi...True
+ 20240916_112449 r
+ 20240916_112450 2
+ 20240916_112450 up 1 at row 4 column 2
+ 20240916_112451 2
+ 20240916_112451 up 1 at row 5 column 2
+ 20240916_112453 2
+ 20240916_112453 up 1 at row 6 column 2
+ 20240916_112454 2
+ 20240916_112454 up 1 at row 7 column 2
+ 20240916_112454 2
+ 20240916_112454 up 1 at row 8 column 2
+ 20240916_112455 2
+ 20240916_112455 up 1 at row 9 column 2
+ 20240916_112455 2
+ 20240916_112455 up 1 at row 10 column 2
+ 20240916_112502 c
+ 20240916_112503 key_color_change: 
+ 20240916_112503 cmd: color_change_cmd
+ 20240916_112503 multi...True
+ 20240916_112503 g
+ 20240916_112504 Up
+ 20240916_112504 red at row 9 column 2
+ 20240916_112504 Up
+ 20240916_112504 red at row 8 column 2
+ 20240916_112505 Up
+ 20240916_112505 red at row 7 column 2
+ 20240916_112505 Up
+ 20240916_112505 red at row 6 column 2
+ 20240916_112511 c
+ 20240916_112511 key_color_change: 
+ 20240916_112511 cmd: color_change_cmd
+ 20240916_112511 multi...True
+ 20240916_112515 b
+ 20240916_112518 6
+ 20240916_112518 left 1  at row 6 column 3
+ 20240916_112519 6
+ 20240916_112519 left 1  at row 6 column 4
+ 20240916_112519 6
+ 20240916_112519 left 1  at row 6 column 5
+ 20240916_112520 6
+ 20240916_112520 left 1  at row 6 column 6
+ 20240916_112521 6
+ 20240916_112521 left 1  at row 6 column 7
+ 20240916_112528 c
+ 20240916_112528 key_color_change: 
+ 20240916_112528 cmd: color_change_cmd
+ 20240916_112528 multi...True
+ 20240916_112530 g
+ 20240916_112530 8
+ 20240916_112530 down 1 at row 5 column 7
+ 20240916_112531 8
+ 20240916_112531 down 1 at row 4 column 7
+ 20240916_112532 8
+ 20240916_112532 down 1 at row 3 column 7
+ 20240916_112532 8
+ 20240916_112532 down 1 at row 2 column 7
+ 20240916_112535 Down
+ 20240916_112535 green at row 3 column 7
+ 20240916_112536 Down
+ 20240916_112536 green at row 4 column 7
+ 20240916_112536 Down
+ 20240916_112536 green at row 5 column 7
+ 20240916_112536 Down
+ 20240916_112536 green at row 6 column 7
+ 20240916_112537 Down
+ 20240916_112537 19 blanks
+ 20240916_112537 left 5 up 15 at row 25 column 7
+ 20240916_112537 Down
+ 20240916_112537 announce can_not_do
+ 20240916_112539 Up
+ 20240916_112539 18 blanks
+ 20240916_112539 up 1 at row 7 column 7
+ 20240916_112542 2
+ 20240916_112542 up 2 at row 8 column 7
+ 20240916_112543 2
+ 20240916_112543 up 1 at row 9 column 7
+ 20240916_112543 5
+ 20240916_112544 5
+ 20240916_112544 5
+ 20240916_112546 8
+ 20240916_112546 green at row 8 column 7
+ 20240916_112546 8
+ 20240916_112546 up 1 at row 7 column 7
+ 20240916_112548 2
+ 20240916_112548 green at row 8 column 7
+ 20240916_112549 2
+ 20240916_112549 green at row 9 column 7
+ 20240916_112549 2
+ 20240916_112549 up 1 at row 10 column 7
+ 20240916_112552 8
+ 20240916_112552 green at row 9 column 7
+ 20240916_112552 8
+ 20240916_112552 green at row 8 column 7
+ 20240916_112552 8
+ 20240916_112552 green at row 7 column 7
+ 20240916_112553 8
+ 20240916_112553 green at row 6 column 7
+ 20240916_112555 u
+ 20240916_112557 6
+ 20240916_112557 left 1  at row 6 column 8
+ 20240916_112557 6
+ 20240916_112557 left 2  at row 6 column 9
+ 20240916_112558 6
+ 20240916_112558 left 3  at row 6 column 10
+ 20240916_112558 6
+ 20240916_112558 left 4  at row 6 column 11
+ 20240916_112600 d
+ 20240916_112602 c
+ 20240916_112602 key_color_change: 
+ 20240916_112603 cmd: color_change_cmd
+ 20240916_112603 multi...True
+ 20240916_112603 b
+ 20240916_112605 8
+ 20240916_112605 left 4  at row 5 column 11
+ 20240916_112606 8
+ 20240916_112606 down 1 at row 4 column 11
+ 20240916_112606 8
+ 20240916_112606 down 1 at row 3 column 11
+ 20240916_112606 8
+ 20240916_112606 down 1 at row 2 column 11
+ 20240916_112609 2
+ 20240916_112609 blue at row 3 column 11
+ 20240916_112610 2
+ 20240916_112610 blue at row 4 column 11
+ 20240916_112610 2
+ 20240916_112610 blue at row 5 column 11
+ 20240916_112610 2
+ 20240916_112610 up 1 at row 6 column 11
+ 20240916_112611 2
+ 20240916_112611 up 1 at row 7 column 11
+ 20240916_112611 2
+ 20240916_112611 up 1 at row 8 column 11
+ 20240916_112611 2
+ 20240916_112611 up 1 at row 9 column 11
+ 20240916_112611 2
+ 20240916_112611 up 1 at row 10 column 11
+ 20240916_112619 w
+ 20240916_112619 
+,b,,,,g
+,r,,,,g
+,r,,,,g
+,r,,,,g
+,bbbbbg
+,r,,,,g
+,r,,,,g
+,r,,,,g
+,g,,,,g
+
+ 20240916_112647 Escape
+ 20240916_112647 Escape pressed
+ 20240916_112647 force_clear
+ 20240916_112647 force speech clearing
+ 20240916_112647 self.sc_cmd_queue.qsize(): 0
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 219 CMD_MSG 2 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 220 CMD_MSG green at row 9 column 7 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 221 CMD_MSG 2 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 222 CMD_MSG up 1 at row 10 column 7 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 223 CMD_MSG 8 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 224 CMD_MSG green at row 9 column 7 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 225 CMD_MSG 8 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 226 CMD_MSG green at row 8 column 7 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 227 CMD_MSG 8 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 228 CMD_MSG green at row 7 column 7 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 229 CMD_MSG 8 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 230 CMD_MSG green at row 6 column 7 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 231 CMD_MSG u ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 232 CMD_MSG 6 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 233 CMD_MSG left 1  at row 6 column 8 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 234 CMD_MSG 6 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 235 CMD_MSG left 2  at row 6 column 9 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 236 CMD_MSG 6 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 237 CMD_MSG left 3  at row 6 column 10 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 238 CMD_MSG 6 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 239 CMD_MSG left 4  at row 6 column 11 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 240 CMD_MSG d ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 241 CMD_MSG c ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 242 CMD_MSG b ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 243 CMD_MSG 8 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 244 CMD_MSG left 4  at row 5 column 11 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 245 CMD_MSG 8 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 246 CMD_MSG down 1 at row 4 column 11 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 247 CMD_MSG 8 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 248 CMD_MSG down 1 at row 3 column 11 REPORT
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 249 CMD_MSG 8 ECHO
+ 20240916_112647 removing speech queue entry: SpeakerControlCmd: 250 CMD_MSG down 1 at row 2 column 11 REPORT
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 251 CMD_MSG 2 ECHO
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 252 CMD_MSG blue at row 3 column 11 REPORT
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 253 CMD_MSG 2 ECHO
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 254 CMD_MSG blue at row 4 column 11 REPORT
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 255 CMD_MSG 2 ECHO
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 256 CMD_MSG blue at row 5 column 11 REPORT
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 257 CMD_MSG 2 ECHO
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 258 CMD_MSG up 1 at row 6 column 11 REPORT
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 259 CMD_MSG 2 ECHO
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 260 CMD_MSG up 1 at row 7 column 11 REPORT
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 261 CMD_MSG 2 ECHO
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 262 CMD_MSG up 1 at row 8 column 11 REPORT
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 263 CMD_MSG 2 ECHO
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 264 CMD_MSG up 1 at row 9 column 11 REPORT
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 265 CMD_MSG 2 ECHO
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 266 CMD_MSG up 1 at row 10 column 11 REPORT
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 267 CMD_MSG w ECHO
+ 20240916_112648 removing speech queue entry: SpeakerControlCmd: 268 CMD_MSG Escape ECHO
+ 20240916_112648 self.sc_sound_queue.qsize(): 0
+ 20240916_112648 Waiting 2000 msec
+ 20240916_112650 Restarting Speaker control
+ 20240916_112650 sc_sounc_proc_thread running
+ 20240916_113848 fte.pgm_exit
+ 20240916_113848 BrailleDisplay.exit
+ 20240916_113848 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_a.properties  20240916_113848
+ 20240916_113848_864 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_a_20240916_111828.sllog

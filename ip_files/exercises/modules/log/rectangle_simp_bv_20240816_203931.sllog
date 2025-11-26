@@ -1,0 +1,23 @@
+ 20240816_203931_280 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\rectangle_simp_bv.properties
+ 20240816_203931_280 decpl = True
+ 20240816_203931_281 list_props = True
+ 20240816_203931_281 prop_change = True
+ 20240816_203931_281 stdouthasts = True
+ 20240816_203931_281 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\log\rectangle_simp_bv_20240816_203931.sllog
+ 20240816_203932 
+get_canvas_items
+ 20240816_203932 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240816_203932 TkRemHost __init__()
+ 20240816_203935 
+get_canvas_items
+ 20240816_203935 xmin=0.0, xmax=1.0, ymin=0.0,ymax=1.0, ncols=None,nrows=None
+ 20240816_204100 
+get_canvas_items
+ 20240816_204100 xmin=0.1, xmax=0.8500000000000001, ymin=0.28,ymax=1.04, ncols=None,nrows=None
+ 20240816_204101 ix:41 >= 41
+ 20240816_204102 
+get_canvas_items
+ 20240816_204102 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240816_204124 Subprocess exited with rc:0
+ 20240816_204124 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\rectangle_simp_bv.properties  20240816_204124
+ 20240816_204124_660 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\log\rectangle_simp_bv_20240816_203931.sllog

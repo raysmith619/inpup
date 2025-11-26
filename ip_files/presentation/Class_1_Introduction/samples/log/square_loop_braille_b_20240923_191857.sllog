@@ -1,0 +1,62 @@
+ 20240923_191857 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_b.properties
+ 20240923_191857 decpl = False
+ 20240923_191857 stdouthasts = 0
+ 20240923_191857 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_b_20240923_191857.sllog
+ 20240923_191900 braille_title: File: square_loop_braille_b.py  Date: 2024-09-23 19:19  User: Owner
+ 20240923_191901 sc_sounc_proc_thread running
+ 20240923_191901 canvas width: 804
+ 20240923_191901 canvas height: 804
+ 20240923_191901 sc_sounc_proc_thread running
+ 20240923_191901 File: square_loop_braille_b.py  Date: 2024-09-23 19:19  User: Owner
+ 20240923_191901 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240923_191901 draw_cells
+ 20240923_191901 x_min:-400.0 y_min: -400.0
+ 20240923_191901 Lower left: min_x:-20 min_y:-176
+ 20240923_191901 Upper Right: max_x:220 max_y:-16
+ 20240923_191901 44 cells
+ 20240923_191902 red at row 13 column 20
+ 20240923_191902 
+,,rrrrrrrrrrr
+,,rr,,,,,,,,r
+,,rr,,,,,,,,r
+,,rr,,,,,,,,r
+,,rr,,,,,,,,r
+,,rr,,,,,,,,r
+,,rrrrrrrrrrr
+
+ 20240923_212938 on_alt_m
+ 20240923_212940 select: ix_min:19 iy_min:12 ix_max:19 iy_max:12
+ 20240923_212940 view select: MagI[1]: select: ix_min:19 iy_min:12 ix_max:19 iy_max:12
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+ 20240923_212940 create_magnification_window: xmin:-20.0 ymin:-16.0 xmax:0.0 ymax:16.0 nrows:25 ncols:40
+ 20240923_212941 canvas width: 804
+ 20240923_212941 canvas height: 804
+ 20240923_212941 sc_sounc_proc_thread running
+ 20240923_212941 AudioDrawWindow
+ 20240923_212941 Magnification of region minimum x: -20, minimum y: -16, maximum x: 0, maximum y: 16
+ 20240923_212941 
+AudioDrawWindow() mag_info:
+MagI[2]: self.description select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-20.0 y_min:-16.0 x_max:0.0 y_max:16.0 ncols:40 nrows:25
+ parent level: 1
+    0 children
+
+ 20240923_212941 draw_cells
+ 20240923_212941 x_min:-400.0 y_min: -400.0
+ 20240923_212941 Lower left: min_x:0 min_y:-368
+ 20240923_212941 Upper Right: max_x:400 max_y:112
+ 20240923_212941 132 cells
+ 20240923_212941 red at row 9 column 21
+ 20240923_212941 stop_scanning
+ 20240923_212941 Magnification has 132 cells

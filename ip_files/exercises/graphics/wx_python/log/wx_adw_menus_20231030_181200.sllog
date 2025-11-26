@@ -1,0 +1,12 @@
+ 20231030_181200 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\wx_adw_menus.properties
+ 20231030_181200_179 loadTraceFlags: decpl,stdouthasts
+ 20231030_181200_179 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\wx_adw_menus_20231030_181200.sllog
+ 20231030_181200_179 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\wx_adw_menus.properties
+ 20231030_181200_200 loadTraceFlags: decpl,stdouthasts,trace_flags
+ 20231030_181200_200 fte.speak_text(
+        Help - list drawing setup commands (Alt-d) commands
+        h - say this help message
+        d - Start/enable drawing
+        s - stop/disable drawing
+        Escape - flush pending report output
+        ,msg_type=Nonemsg))

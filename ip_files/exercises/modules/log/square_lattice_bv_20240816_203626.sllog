@@ -1,0 +1,15 @@
+ 20240816_203626_643 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\square_lattice_bv.properties
+ 20240816_203626_643 decpl = True
+ 20240816_203626_644 list_props = True
+ 20240816_203626_644 prop_change = True
+ 20240816_203626_644 stdouthasts = True
+ 20240816_203626_644 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\exercises\modules\log\square_lattice_bv_20240816_203626.sllog
+ 20240816_203626 
+get_canvas_items
+ 20240816_203626 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240816_203627 TkRemHost __init__()
+ 20240816_203630 
+get_canvas_items
+ 20240816_203630 xmin=0.0, xmax=1.0, ymin=0.0,ymax=1.0, ncols=None,nrows=None
+ 20240816_203631 ix:41 >= 41
+ 20240816_203632 ix:41 >= 41

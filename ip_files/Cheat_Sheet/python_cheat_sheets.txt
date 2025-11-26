@@ -1,0 +1,4 @@
+
+https://nbisweden.github.io/workshop-python/img/cheat_sheet.pdf
+
+https://websitesetup.org/python-cheat-sheet/

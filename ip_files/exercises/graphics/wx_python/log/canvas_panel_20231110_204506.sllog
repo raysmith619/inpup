@@ -1,0 +1,181 @@
+ 20231110_204506 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204506_273 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204506_288 decpl = True
+ 20231110_204506_290 stdouthasts = True
+ 20231110_204506_291 list_props = True
+ 20231110_204506_291 prop_change = True
+ 20231110_204506_292 trace_flags = True
+ 20231110_204506_292 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_204506.sllog
+ 20231110_204506_338 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204506_338 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204506_353 decpl = True
+ 20231110_204506_353 stdouthasts = True
+ 20231110_204506_353 list_props = True
+ 20231110_204506_353 prop_change = True
+ 20231110_204506_353 trace_flags = True
+ 20231110_204506_353 
+OnPaint
+ 20231110_204506_353 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204506_353 DrawRect: (50, 100),  (200, 200)
+ 20231110_204506_353 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204506_369 DrawRect: (150, 150),  (300, 300)
+ 20231110_204511_707 
+OnPaint
+ 20231110_204511_723 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204511_723 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204511_723 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204511_723 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204511_738 
+OnPaint
+ 20231110_204511_738 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204511_738 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204511_742 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204511_743 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204511_746 
+OnPaint
+ 20231110_204511_746 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204511_746 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204511_746 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204511_746 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204511_769 
+OnPaint
+ 20231110_204511_769 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204511_769 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204511_769 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204511_769 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204511_784 
+OnPaint
+ 20231110_204511_784 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204511_784 DrawRect: (50, 100),  (2900, 1900)
+ 20231110_204511_784 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204511_784 DrawRect: (150, 150),  (3000, 2850)
+ 20231110_204511_800 
+OnPaint
+ 20231110_204511_800 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204511_800 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204511_800 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204511_800 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204511_816 
+OnPaint
+ 20231110_204511_816 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204512_331 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204512_331 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204512_347 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204512_357 
+OnPaint
+ 20231110_204512_357 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204512_357 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204512_357 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204512_373 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204513_004 
+OnPaint
+ 20231110_204513_004 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_004 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204513_004 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_004 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204513_023 
+OnPaint
+ 20231110_204513_023 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_023 DrawRect: (50, 100),  (3050, 1900)
+ 20231110_204513_023 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_023 DrawRect: (150, 150),  (3150, 2850)
+ 20231110_204513_038 
+OnPaint
+ 20231110_204513_038 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_038 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204513_038 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_038 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204513_054 
+OnPaint
+ 20231110_204513_054 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_054 DrawRect: (50, 100),  (3200, 1900)
+ 20231110_204513_054 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_054 DrawRect: (150, 150),  (3300, 2850)
+ 20231110_204513_070 
+OnPaint
+ 20231110_204513_070 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_070 DrawRect: (50, 100),  (3350, 1900)
+ 20231110_204513_070 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_070 DrawRect: (150, 150),  (3450, 2850)
+ 20231110_204513_085 
+OnPaint
+ 20231110_204513_085 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_085 DrawRect: (50, 100),  (3500, 1900)
+ 20231110_204513_085 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_085 DrawRect: (150, 150),  (3600, 2850)
+ 20231110_204513_101 
+OnPaint
+ 20231110_204513_101 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_101 DrawRect: (50, 100),  (3500, 1900)
+ 20231110_204513_101 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_101 DrawRect: (150, 150),  (3600, 2850)
+ 20231110_204513_116 
+OnPaint
+ 20231110_204513_116 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_116 DrawRect: (50, 100),  (3500, 1900)
+ 20231110_204513_116 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_116 DrawRect: (150, 150),  (3600, 2850)
+ 20231110_204513_132 
+OnPaint
+ 20231110_204513_132 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_132 DrawRect: (50, 100),  (3500, 1900)
+ 20231110_204513_132 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_132 DrawRect: (150, 150),  (3600, 2850)
+ 20231110_204513_132 
+OnPaint
+ 20231110_204513_132 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_132 DrawRect: (50, 100),  (3650, 1900)
+ 20231110_204513_132 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_132 DrawRect: (150, 150),  (3750, 2850)
+ 20231110_204513_148 
+OnPaint
+ 20231110_204513_163 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_163 DrawRect: (50, 100),  (3650, 1900)
+ 20231110_204513_163 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_163 DrawRect: (150, 150),  (3750, 2850)
+ 20231110_204513_163 
+OnPaint
+ 20231110_204513_163 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_163 DrawRect: (50, 100),  (3650, 1900)
+ 20231110_204513_163 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_163 DrawRect: (150, 150),  (3750, 2850)
+ 20231110_204513_179 
+OnPaint
+ 20231110_204513_179 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_179 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204513_179 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_179 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204513_194 
+OnPaint
+ 20231110_204513_194 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_194 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204513_194 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_194 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204513_210 
+OnPaint
+ 20231110_204513_210 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_210 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204513_210 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_210 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204513_226 
+OnPaint
+ 20231110_204513_226 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_226 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204513_226 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_226 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204513_241 
+OnPaint
+ 20231110_204513_241 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204513_241 DrawRect: (50, 100),  (3800, 1900)
+ 20231110_204513_241 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204513_241 DrawRect: (150, 150),  (3900, 2850)
+ 20231110_204515_856 No differences
+ 20231110_204515_856 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties  20231110_204515
+ 20231110_204516_278 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204516_294 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204516_309 decpl = True
+ 20231110_204516_325 stdouthasts = True
+ 20231110_204516_341 list_props = True
+ 20231110_204516_341 prop_change = True
+ 20231110_204516_356 trace_flags = True
+ 20231110_204516_356 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_204506.sllog

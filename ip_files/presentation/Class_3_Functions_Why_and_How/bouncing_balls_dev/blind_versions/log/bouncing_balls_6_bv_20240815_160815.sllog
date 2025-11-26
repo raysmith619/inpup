@@ -1,0 +1,13 @@
+ 20240815_160815 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_3_Functions_Why_and_How\bouncing_balls_dev\blind_versions\bouncing_balls_6_bv.properties
+ 20240815_160815 decpl = False
+ 20240815_160815 stdouthasts = 0
+ 20240815_160815 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_3_Functions_Why_and_How\bouncing_balls_dev\blind_versions\log\bouncing_balls_6_bv_20240815_160815.sllog
+ 20240815_160815 pyt_proc_thread running
+ 20240815_160815 pyts3_queue.get():
+Test Start
+ 20240815_160815 AFTER thread start()
+ 20240815_160815 starting run_and_wait_thread_proc
+ 20240815_160817 AFTER thread join()
+ 20240815_160817 pyts3_queue.get():off top
+ 20240815_160929 AFTER thread start()
+ 20240815_160929 starting run_and_wait_thread_proc

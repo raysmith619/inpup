@@ -1,0 +1,213 @@
+ 20231110_204041 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204041_070 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204041_070 decpl = True
+ 20231110_204041_070 stdouthasts = True
+ 20231110_204041_070 list_props = True
+ 20231110_204041_070 prop_change = True
+ 20231110_204041_070 trace_flags = True
+ 20231110_204041_070 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_204041.sllog
+ 20231110_204041_070 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204041_086 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204041_086 decpl = True
+ 20231110_204041_086 stdouthasts = True
+ 20231110_204041_086 list_props = True
+ 20231110_204041_086 prop_change = True
+ 20231110_204041_086 trace_flags = True
+ 20231110_204041_086 
+OnPaint
+ 20231110_204041_086 item: CanvasPanelItem:[1]create_rectangle orig: (0, 0) orig: (20, 20)[50, 100, 200, 200]{'fill': 'red'}
+ 20231110_204041_104 DrawRect: (50, 100),  (200, 200)
+ 20231110_204041_104 item: CanvasPanelItem:[2]create_rectangle orig: (0, 0) orig: (20, 20)[150, 150, 300, 300]{'fill': 'blue'}
+ 20231110_204041_104 DrawRect: (150, 150),  (300, 300)
+ 20231110_204046_276 
+OnPaint
+ 20231110_204046_440 
+OnPaint
+ 20231110_204046_580 
+OnPaint
+ 20231110_204046_799 
+OnPaint
+ 20231110_204046_799 
+OnPaint
+ 20231110_204046_815 
+OnPaint
+ 20231110_204046_830 
+OnPaint
+ 20231110_204046_846 
+OnPaint
+ 20231110_204046_862 
+OnPaint
+ 20231110_204046_862 
+OnPaint
+ 20231110_204046_877 
+OnPaint
+ 20231110_204046_893 
+OnPaint
+ 20231110_204046_908 
+OnPaint
+ 20231110_204046_924 
+OnPaint
+ 20231110_204046_940 
+OnPaint
+ 20231110_204046_940 
+OnPaint
+ 20231110_204046_955 
+OnPaint
+ 20231110_204046_971 
+OnPaint
+ 20231110_204046_987 
+OnPaint
+ 20231110_204047_018 
+OnPaint
+ 20231110_204047_033 
+OnPaint
+ 20231110_204047_049 
+OnPaint
+ 20231110_204047_065 
+OnPaint
+ 20231110_204047_080 
+OnPaint
+ 20231110_204047_080 
+OnPaint
+ 20231110_204047_096 
+OnPaint
+ 20231110_204047_111 
+OnPaint
+ 20231110_204047_127 
+OnPaint
+ 20231110_204047_174 
+OnPaint
+ 20231110_204047_190 
+OnPaint
+ 20231110_204047_205 
+OnPaint
+ 20231110_204047_221 
+OnPaint
+ 20231110_204047_236 
+OnPaint
+ 20231110_204047_252 
+OnPaint
+ 20231110_204047_268 
+OnPaint
+ 20231110_204047_283 
+OnPaint
+ 20231110_204047_299 
+OnPaint
+ 20231110_204047_315 
+OnPaint
+ 20231110_204047_330 
+OnPaint
+ 20231110_204047_346 
+OnPaint
+ 20231110_204047_361 
+OnPaint
+ 20231110_204047_377 
+OnPaint
+ 20231110_204047_393 
+OnPaint
+ 20231110_204047_408 
+OnPaint
+ 20231110_204047_424 
+OnPaint
+ 20231110_204047_440 
+OnPaint
+ 20231110_204047_455 
+OnPaint
+ 20231110_204047_658 
+OnPaint
+ 20231110_204047_658 
+OnPaint
+ 20231110_204047_678 
+OnPaint
+ 20231110_204047_693 
+OnPaint
+ 20231110_204047_709 
+OnPaint
+ 20231110_204047_725 
+OnPaint
+ 20231110_204047_740 
+OnPaint
+ 20231110_204047_756 
+OnPaint
+ 20231110_204047_834 
+OnPaint
+ 20231110_204047_947 
+OnPaint
+ 20231110_204047_963 
+OnPaint
+ 20231110_204047_979 
+OnPaint
+ 20231110_204047_979 
+OnPaint
+ 20231110_204047_994 
+OnPaint
+ 20231110_204048_010 
+OnPaint
+ 20231110_204048_010 
+OnPaint
+ 20231110_204048_025 
+OnPaint
+ 20231110_204048_041 
+OnPaint
+ 20231110_204048_057 
+OnPaint
+ 20231110_204048_072 
+OnPaint
+ 20231110_204048_072 
+OnPaint
+ 20231110_204048_088 
+OnPaint
+ 20231110_204048_088 
+OnPaint
+ 20231110_204048_103 
+OnPaint
+ 20231110_204048_119 
+OnPaint
+ 20231110_204048_119 
+OnPaint
+ 20231110_204048_135 
+OnPaint
+ 20231110_204048_150 
+OnPaint
+ 20231110_204048_166 
+OnPaint
+ 20231110_204048_181 
+OnPaint
+ 20231110_204048_197 
+OnPaint
+ 20231110_204048_213 
+OnPaint
+ 20231110_204048_213 
+OnPaint
+ 20231110_204048_228 
+OnPaint
+ 20231110_204048_244 
+OnPaint
+ 20231110_204048_244 
+OnPaint
+ 20231110_204048_260 
+OnPaint
+ 20231110_204048_275 
+OnPaint
+ 20231110_204048_291 
+OnPaint
+ 20231110_204048_322 
+OnPaint
+ 20231110_204048_353 
+OnPaint
+ 20231110_204048_416 
+OnPaint
+ 20231110_204048_525 
+OnPaint
+ 20231110_204048_557 
+OnPaint
+ 20231110_204113_349 No differences
+ 20231110_204113_364 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties  20231110_204113
+ 20231110_204115_806 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\canvas_panel.properties
+ 20231110_204115_806 loadTraceFlags: decpl,stdouthasts,list_props,prop_change,trace_flags
+ 20231110_204115_821 decpl = True
+ 20231110_204115_821 stdouthasts = True
+ 20231110_204115_837 list_props = True
+ 20231110_204115_837 prop_change = True
+ 20231110_204115_837 trace_flags = True
+ 20231110_204115_837 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\Introduction-To-Programming\exercises\graphics\wx_python\log\canvas_panel_20231110_204041.sllog

@@ -1,0 +1,90 @@
+ 20240911_105837 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_colors.properties
+ 20240911_105837 decpl = False
+ 20240911_105837 stdouthasts = 0
+ 20240911_105837 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_colors_20240911_105837.sllog
+ 20240911_105840 braille_title: File: square_loop_braille_colors.py  Date: 2024-09-11 10:58  User: Owner
+ 20240911_105841 sc_sounc_proc_thread running
+ 20240911_105841 canvas width: 804
+ 20240911_105841 canvas height: 804
+ 20240911_105841 sc_sounc_proc_thread running
+ 20240911_105841 File: square_loop_braille_colors.py  Date: 2024-09-11 10:58  User: Owner
+ 20240911_105841 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240911_105841 draw_cells
+ 20240911_105841 x_min:-400.0 y_min: -400.0
+ 20240911_105841 Lower left: min_x:-40 min_y:-208
+ 20240911_105841 Upper Right: max_x:240 max_y:16
+ 20240911_105841 94 cells
+ 20240911_105841 green at row 12 column 20
+ 20240911_105841 
+,,,ggrrrrrrrroo
+,,gggrrrrrrrooo
+,,gggrrrrrrrooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggggyyyyyyyyy
+,,,gggyyyyyyyyy
+
+ 20240911_110402 3
+ 20240911_110402 green at row 13 column 21
+ 20240911_110406 3
+ 20240911_110406 red at row 14 column 22
+ 20240911_110409 9
+ 20240911_110409 red at row 13 column 23
+ 20240911_110427 8
+ 20240911_110428 red at row 12 column 23
+ 20240911_110428 7
+ 20240911_110428 down 1 at row 11 column 22
+ 20240911_110428 7
+ 20240911_110428 down 2 at row 10 column 21
+ 20240911_110431 2
+ 20240911_110431 down 1 at row 11 column 21
+ 20240911_110431 2
+ 20240911_110431 green at row 12 column 21
+ 20240911_110431 2
+ 20240911_110431 green at row 13 column 21
+ 20240911_110431 2
+ 20240911_110431 green at row 14 column 21
+ 20240911_110431 2
+ 20240911_110432 green at row 15 column 21
+ 20240911_110432 2
+ 20240911_110432 green at row 16 column 21
+ 20240911_110432 2
+ 20240911_110432 green at row 17 column 21
+ 20240911_110437 Escape
+ 20240911_110438 Escape pressed
+ 20240911_110438 force_clear
+ 20240911_110438 force speech clearing
+ 20240911_110438 self.sc_cmd_queue.qsize(): 0
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 16 CMD_MSG down 1 at row 11 column 21 REPORT
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 17 CMD_MSG 2 ECHO
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 18 CMD_MSG green at row 12 column 21 REPORT
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 19 CMD_MSG 2 ECHO
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 20 CMD_MSG green at row 13 column 21 REPORT
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 21 CMD_MSG 2 ECHO
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 22 CMD_MSG green at row 14 column 21 REPORT
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 23 CMD_MSG 2 ECHO
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 24 CMD_MSG green at row 15 column 21 REPORT
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 25 CMD_MSG 2 ECHO
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 26 CMD_MSG green at row 16 column 21 REPORT
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 27 CMD_MSG 2 ECHO
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 28 CMD_MSG green at row 17 column 21 REPORT
+ 20240911_110438 removing speech queue entry: SpeakerControlCmd: 29 CMD_MSG Escape ECHO
+ 20240911_110438 self.sc_sound_queue.qsize(): 0
+ 20240911_110438 Waiting 2000 msec
+ 20240911_110440 Restarting Speaker control
+ 20240911_110440 sc_sounc_proc_thread running
+ 20240911_110500 2
+ 20240911_110501 green at row 18 column 21
+ 20240911_110505 3
+ 20240911_110505 green at row 19 column 22
+ 20240911_110510 6
+ 20240911_110510 yellow at row 19 column 23

@@ -1,0 +1,111 @@
+ 20240916_110528_791 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_a.properties
+ 20240916_110528_827 decpl = True
+ 20240916_110528_836 aud_create = True
+ 20240916_110528_846 display_cell = True
+ 20240916_110528_856 get_items = True
+ 20240916_110528_900 list_props = True
+ 20240916_110528_911 pos_tracking = True
+ 20240916_110528_923 prop_change = True
+ 20240916_110528_932 show_canvas_items = True
+ 20240916_110528_941 slow_key_str = True
+ 20240916_110528_960 sound_queue = True
+ 20240916_110528_971 speech = True
+ 20240916_110528_984 stdouthasts = True
+ 20240916_110528_997 win_items = True
+ 20240916_110529_007 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_a_20240916_110528.sllog
+ 20240916_110532 braille_title: File: square_loop_braille_a.py  Date: 2024-09-16 11:05  User: Owner
+ 20240916_110532 sc_sounc_proc_thread running
+ 20240916_110533 canvas width: 804
+ 20240916_110533 canvas height: 804
+ 20240916_110533 sc_sounc_proc_thread running
+ 20240916_110533 File: square_loop_braille_a.py  Date: 2024-09-16 11:05  User: Owner
+ 20240916_110533 
+AudioDrawWindow() mag_info:
+MagI[1]: select: ix_min:None iy_min:None ix_max:None iy_max:None
+    top:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:32 nrows:25
+    display:win_fract:True x_min:-400.0 y_min:-400.0 x_max:400.0 y_max:400.0 ncols:40 nrows:25
+    no parent
+    0 children
+
+ 20240916_110533 draw_cells
+ 20240916_110533 x_min:-400.0 y_min: -400.0
+ 20240916_110533 Lower left: min_x:-40 min_y:-208
+ 20240916_110533 Upper Right: max_x:240 max_y:16
+ 20240916_110533 94 cells
+ 20240916_110533 green at row 12 column 20
+ 20240916_110533 
+,,,ggrrrrrrrroo
+,,gggrrrrrrrooo
+,,gggrrrrrrrooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggg,,,,,,,ooo
+,,ggggyyyyyyyyy
+,,,gggyyyyyyyyy
+
+ 20240916_111240 3
+ 20240916_111240 green at row 13 column 21
+ 20240916_111244 3
+ 20240916_111244 red at row 14 column 22
+ 20240916_111248 6
+ 20240916_111248 red at row 14 column 23
+ 20240916_111249 6
+ 20240916_111249 red at row 14 column 24
+ 20240916_111250 6
+ 20240916_111250 red at row 14 column 25
+ 20240916_111251 6
+ 20240916_111251 red at row 14 column 26
+ 20240916_111252 6
+ 20240916_111252 red at row 14 column 27
+ 20240916_111257 Escape
+ 20240916_111257 Escape pressed
+ 20240916_111257 force_clear
+ 20240916_111257 force speech clearing
+ 20240916_111257 self.sc_cmd_queue.qsize(): 0
+ 20240916_111257 removing speech queue entry: SpeakerControlCmd: 13 CMD_MSG 6 ECHO
+ 20240916_111257 removing speech queue entry: SpeakerControlCmd: 14 CMD_MSG red at row 14 column 26 REPORT
+ 20240916_111257 removing speech queue entry: SpeakerControlCmd: 15 CMD_MSG 6 ECHO
+ 20240916_111257 removing speech queue entry: SpeakerControlCmd: 16 CMD_MSG red at row 14 column 27 REPORT
+ 20240916_111257 removing speech queue entry: SpeakerControlCmd: 17 CMD_MSG Escape ECHO
+ 20240916_111257 self.sc_sound_queue.qsize(): 0
+ 20240916_111257 Waiting 2000 msec
+ 20240916_111259 Restarting Speaker control
+ 20240916_111259 sc_sounc_proc_thread running
+ 20240916_111319 on_alt_n
+ 20240916_111340 rept_at_loc:False
+ 20240916_111343 6
+ 20240916_111343 red
+ 20240916_111344 6
+ 20240916_111344 orange
+ 20240916_111345 6
+ 20240916_111345 orange
+ 20240916_111347 3
+ 20240916_111347 orange
+ 20240916_111359 on_alt_n
+ 20240916_111407 3 oranges
+ 20240916_111615 3 greens to left
+ 20240916_111615 10 yellows to right
+ 20240916_111625 4 blanks to a red at above
+ 20240916_111625 1 green to below
+ 20240916_111643 3 greens
+ 20240916_111648 3 greens
+ 20240916_111649 10 yellows
+ 20240916_111655 6 oranges
+ 20240916_111720 on_alt_n
+ 20240916_111729 set_visible:False
+ 20240916_111731 3 oranges
+ 20240916_111733 7 reds
+ 20240916_111735 3 greens
+ 20240916_111736 18 blanks
+ 20240916_111739 17 blanks
+ 20240916_111741 12 blanks
+ 20240916_111742 24 blanks
+ 20240916_111749 10 blanks
+ 20240916_111751 7 greens
+ 20240916_111758 on_alt_n
+ 20240916_111802 set_visible:True
+ 20240916_111820 fte.pgm_exit
+ 20240916_111820 BrailleDisplay.exit
+ 20240916_111820 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\square_loop_braille_a.properties  20240916_111820
+ 20240916_111820_213 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_1_Introduction\samples\log\square_loop_braille_a_20240916_110528.sllog

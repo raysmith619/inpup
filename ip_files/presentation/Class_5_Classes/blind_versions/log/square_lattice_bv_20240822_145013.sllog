@@ -1,0 +1,16 @@
+ 20240822_145013 Trace levels from properties file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_5_Classes\blind_versions\square_lattice_bv.properties
+ 20240822_145013 decpl = False
+ 20240822_145013 stdouthasts = 0
+ 20240822_145013 Creating Log File Name: C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_5_Classes\blind_versions\log\square_lattice_bv_20240822_145013.sllog
+ 20240822_145014 
+get_canvas_items
+ 20240822_145014 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240822_145014 TkRemHost __init__()
+ 20240822_145016 
+get_canvas_items
+ 20240822_145016 xmin=0.0, xmax=1.0, ymin=0.0,ymax=1.0, ncols=None,nrows=None
+ 20240822_145017 ix:41 >= 41
+ 20240822_145018 ix:41 >= 41
+ 20240822_145037 Subprocess exited with rc:0
+ 20240822_145037 Saving properties file  C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_5_Classes\blind_versions\square_lattice_bv.properties  20240822_145037
+ 20240822_145037_201 Closing log file C:\Users\raysm\vscode\Introduction-To-Programming\presentation\Class_5_Classes\blind_versions\log\square_lattice_bv_20240822_145013.sllog
