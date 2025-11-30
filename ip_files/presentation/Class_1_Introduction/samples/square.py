@@ -1,4 +1,4 @@
-# square.py
+# square.py 30Nov2025  checking source control
 # Display a square
 
 from turtle import *    # Get graphics stuff
