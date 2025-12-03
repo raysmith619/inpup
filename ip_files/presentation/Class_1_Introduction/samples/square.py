@@ -1,13 +1,10 @@
-# square.py 30Nov2025  checking source control
+# square.py 01Dec2025  loop plus tu
 # Display a square
 
-from turtle import *    # Get graphics stuff
+import turtle as tu    # Graphics stuff, short name
 
-color("blue")
-forward(200)
-right(90)
-forward(200)
-right(90)
-forward(200)
-right(90)
-forward(200)
+for i in range(4):
+    tu.color("blue")
+    tu.forward(200)
+    tu.right(90)
+tu.done()

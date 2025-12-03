@@ -8,7 +8,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "intro-prog"
-version = "0.2.1"
+version = "0.0.1"
 authors = [
   { name="Ray Smith", email="raysmith619@gmail.com" },
 ]
@@ -33,13 +33,13 @@ packages = ["Docs"]
 
 
 [project.urls]
-Homepage = "https://github.com/raysmith619/intro_prog"
-Issues = "https://github.com/raysmith619/intro_prog/issues"
+Homepage = "https://github.com/raysmith619/inpup"
+Issues = "https://github.com/raysmith619/inpup/issues"
 
 [project.scripts]
-ip = "intro_prog:iphelp"
-iphelp = "intro_prog:iphelp"
-ipreadme = "intro_prog:ipreadme"
-ipfiles = "intro_prog:ipfiles"
-iptest = "intro_prog:iptest"
-iptest2 = "intro_prog:iptest2"
+ip = "inpup:iphelp"
+iphelp = "inpup:iphelp"
+ipreadme = "inpup:ipreadme"
+ipfiles = "inpup:ipfiles"
+iptest = "inpup:iptest"
+iptest2 = "inpup:iptest2"

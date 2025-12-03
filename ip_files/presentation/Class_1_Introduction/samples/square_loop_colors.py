@@ -1,4 +1,4 @@
-# square_loop_colors_width.py
+# square_loop_colors.py
 # Display a square
 
 import turtle as tu     # Coloring tools
